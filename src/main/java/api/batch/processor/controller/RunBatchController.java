@@ -13,6 +13,7 @@ import org.springframework.batch.core.repository.JobExecutionAlreadyRunningExcep
 import org.springframework.batch.core.repository.JobInstanceAlreadyCompleteException;
 import org.springframework.batch.core.repository.JobRestartException;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -27,6 +28,10 @@ public class RunBatchController {
 	@Autowired
 	Job job;
 	
+	@Autowired
+	@Qualifier("jobNewJob")
+	Job jobNew;
+	
 	
 	@GetMapping("/run")
 	public BatchStatus runBatch() {
@@ -35,6 +40,29 @@ public class RunBatchController {
 		JobParameters jobParameters=new JobParameters(map);
 		try {
 			JobExecution je=jobLauncher.run(job, jobParameters);
+			System.out.println("Status:" + je.getStatus());
+			while(je.isRunning()) {
+				System.out.println("Job Running");
+			}
+			return je.getStatus();
+		} catch (JobExecutionAlreadyRunningException | JobRestartException | JobInstanceAlreadyCompleteException
+				| JobParametersInvalidException e) {
+			e.printStackTrace();
+		}
+		return null;
+		
+		
+	}
+	
+	
+	
+	@GetMapping("/run/all")
+	public BatchStatus runBatchALL() {
+		HashMap<String,JobParameter> map=new HashMap<>();
+		map.put("Time", new JobParameter(System.currentTimeMillis()));
+		JobParameters jobParameters=new JobParameters(map);
+		try {
+			JobExecution je=jobLauncher.run(jobNew, jobParameters);
 			System.out.println("Status:" + je.getStatus());
 			while(je.isRunning()) {
 				System.out.println("Job Running");

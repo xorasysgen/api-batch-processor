@@ -1,0 +1,1611 @@
+code,symbol,isin,company,ldate,faceval
+1,GREENPANEL,INE08ZM01014,Greenpanel Industries Limited,23-Oct-19,1
+2,FLUOROCHEM,INE09N301011,Gujarat Fluorochemicals Limited,16-Oct-19,1
+3,VISHWARAJ,INE430N01014,Vishwaraj Sugar Industries Limited,15-Oct-19,10
+4,IRCTC,INE335Y01012,Indian Railway Catering And Tourism Corporation Limited,14-Oct-19,10
+5,AKASH,INE737W01013,Akash Infra-Projects Limited,11-Oct-19,10
+6,IIFLSEC,INE489L01022,IIFL Securities Limited,20-Sep-19,2
+7,IIFLWAM,INE466L01020,Iifl Wealth Management Limited,19-Sep-19,2
+8,SAFARI,INE429E01023,Safari Industries (India) Limited,12-Sep-19,2
+9,KRISHANA,INE506W01012,Krishana Phoschem Limited,22-Aug-19,10
+10,MBAPL,INE900L01010,Madhya Bharat Agro Products Limited,22-Aug-19,10
+11,SWSOLAR,INE00M201021,Sterling And Wilson Solar Limited,20-Aug-19,1
+12,VIKASPROP,INE767B01022,Vikas Proppant & Granite Limited,19-Aug-19,1
+13,VISHAL,INE755Q01025,Vishal Fabrics Limited,19-Aug-19,5
+14,DOLAT,INE966A01022,Dolat Investments Limited,19-Aug-19,1
+15,WESTLIFE,INE274F01020,Westlife Development Ltd,19-Aug-19,2
+16,ZOTA,INE358U01012,Zota Health Care LImited,19-Aug-19,10
+17,SPANDANA,INE572J01011,Spandana Sphoorty Financial Limited,19-Aug-19,10
+18,JIYAECO,INE023S01016,Jiya Eco-Products Limited,19-Aug-19,10
+19,JUMPNET,INE974C01022,Jump Networks Limited,19-Aug-19,5
+20,HNDFDS,INE254N01018,Hindustan Foods Limited,19-Aug-19,10
+21,BCP,INE905P01028,B.C. Power Controls Ltd,19-Aug-19,2
+22,AFFLE,INE00WC01019,Affle (India) Limited,8-Aug-19,10
+23,CREATIVE,INE985W01018,Creative Peripherals and Distribution Limited,5-Aug-19,10
+24,SHRENIK,INE632X01022,Shrenik Limited,2-Aug-19,2
+25,SUMIT,INE748Z01013,Sumit Woods Limited,30-Jul-19,10
+26,LIBAS,INE908V01012,Libas Designs Limited,23-Jul-19,10
+27,LIBAS,INE908V01012,Libas Designs Limited,23-Jul-19,10
+28,GFSTEELS,INE534A01028,Grand Foundry Limited,22-Jul-19,4
+29,SIRCA,INE792Z01011,Sirca Paints India Limited,22-Jul-19,10
+30,SATIA,INE170E01023,Satia Industries Limited,17-Jul-19,1
+31,DCMNVL,INE08KP01019,DCM Nouvelle Limited,16-Jul-19,10
+32,INFOBEAN,INE344S01016,InfoBeans Technologies Limited,15-Jul-19,10
+33,SANGINITA,INE753W01010,Sanginita Chemicals Limited,15-Jul-19,10
+34,SEYAIND,INE573R01012,Seya Industries Limited,11-Jul-19,10
+35,OAL,INE959C01023,Oriental Aromatics Limited,11-Jul-19,5
+36,INDIAMART,INE933S01016,Indiamart Intermesh Limited,4-Jul-19,10
+37,STEELCITY,INE395H01011,Steel City Securities Limited,27-Jun-19,10
+38,DGCONTENT,INE03JI01017,Digicontent Limited,18-Jun-19,2
+39,PPL,INE050001010,Prakash Pipes Limited,14-Jun-19,10
+40,CONFIPET,INE552D01024,Confidence Petroleum India Limited,13-Jun-19,1
+41,EMAMIPAP,INE830C01026,Emami Paper Mills Limited,30-May-19,2
+42,ONEPOINT,INE840Y01011,One Point One Solutions Limited,9-May-19,10
+43,VIKASMCORP,INE161L01027,Vikas Multicorp Limited,8-May-19,1
+44,NEOGEN,INE136S01016,Neogen Chemicals Limited,8-May-19,10
+45,AIRAN,INE645W01026,Airan Limited,3-May-19,2
+46,KPITTECH,INE04I401011,KPIT Technologies Limited,22-Apr-19,10
+47,SOUTHWEST,INE980Y01015,South West Pinnacle Exploration Limited,18-Apr-19,10
+48,POLYCAB,INE455K01017,Polycab India Limited,16-Apr-19,10
+49,MAHESHWARI,INE263W01010,Maheshwari Logistics Limited,15-Apr-19,10
+50,METROPOLIS,INE112L01020,Metropolis Healthcare Limited,15-Apr-19,2
+51,RVNL,INE415G01027,Rail Vikas Nigam Limited,11-Apr-19,10
+52,SAKAR,INE732S01012,Sakar Healthcare Limited,11-Apr-19,10
+53,CKFSL,INE391Z01012,Cox & Kings Financial Service Limited,11-Apr-19,10
+54,MSTCLTD,INE255X01014,Mstc Limited,29-Mar-19,10
+55,AGROPHOS,INE740V01019,Agro Phos India Limited,8-Mar-19,10
+56,ARVINDFASN,INE955V01021,Arvind Fashions Limited,8-Mar-19,4
+57,ANUP,INE294Z01018,The Anup Engineering Limited,1-Mar-19,10
+58,CHALET,INE427F01016,Chalet Hotels Limited,7-Feb-19,10
+59,XELPMOC,INE01P501012,Xelpmoc Design And Tech Limited,4-Feb-19,10
+60,CESCVENT,INE425Y01011,CESC Ventures Limited,25-Jan-19,10
+61,SPENCERS,INE020801028,Spencer's Retail Limited,25-Jan-19,5
+62,SAGARDEEP,INE976T01013,Sagardeep Alloys Limited,25-Jan-19,10
+63,DALBHARAT,INE00R701025,Dalmia Bharat Limited,22-Jan-19,2
+64,NILASPACES,INE00S901012,Nila Spaces Limited,28-Dec-18,1
+65,TREJHARA,INE00CA01015,TREJHARA SOLUTIONS LIMITED,28-Dec-18,10
+66,TECHNOE,INE285K01026,Techno Electric & Engineering Company Limited,4-Dec-18,2
+67,ADANIGAS,INE399L01023,Adani Gas Limited,5-Nov-18,1
+68,GRSE,INE382Z01011,Garden Reach Shipbuilders & Engineers Limited,10-Oct-18,10
+69,AAVAS,INE216P01012,Aavas Financiers Limited,8-Oct-18,10
+70,IRCON,INE962Y01013,Ircon International Limited,28-Sep-18,10
+71,AIONJSW,INE743C01021,Monnet Ispat & Energy Limited,12-Sep-18,10
+72,SIGIND,INE529F01035,Signet Industries Limited,29-Aug-18,10
+73,CREDITACC,INE741K01010,CREDITACCESS GRAMEEN LIMITED,23-Aug-18,10
+74,HDFCAMC,INE127D01025,HDFC Asset Management Company Limited,6-Aug-18,5
+75,TCNSBRANDS,INE778U01029,TCNS Clothing Co. Limited,30-Jul-18,2
+76,HBSL,INE550B01022,HB Stockholdings Limited,23-Jul-18,10
+77,VARROC,INE665L01035,Varroc Engineering Limited,6-Jul-18,1
+78,RITES,INE320J01015,RITES Limited,2-Jul-18,10
+79,FINEORG,INE686Y01026,Fine Organic Industries Limited,2-Jul-18,5
+80,TALWGYM,INE627Z01019,Talwalkars Healthclubs Limited,29-Jun-18,10
+81,GAYAHWS,INE287Z01012,Gayatri Highways Limited,28-Jun-18,2
+82,SOLARA,INE624Z01016,Solara Active Pharma Sciences Limited,27-Jun-18,10
+83,ADANIGREEN,INE364U01010,Adani Green Energy Limited,18-Jun-18,10
+84,BOROSIL,INE666D01022,Borosil Glass Works Limited,25-May-18,1
+85,INDOSTAR,INE896L01010,IndoStar Capital Finance Limited,21-May-18,10
+86,ORIENTELEC,INE142Z01019,Orient Electric Limited,14-May-18,1
+87,HITECH,INE106T01017,Hi-Tech Pipes Limited,7-May-18,10
+88,CHEMFAB,INE783X01023,Chemfab Alkalis Limited,25-Apr-18,10
+89,LEMONTREE,INE970X01018,Lemon Tree Hotels Limited,9-Apr-18,10
+90,MIDHANI,INE099Z01011,Mishra Dhatu Nigam Limited,4-Apr-18,10
+91,ISEC,INE763G01038,ICICI Securities Limited,4-Apr-18,5
+92,CENTRUM,INE660C01027,Centrum Capital Limited,4-Apr-18,1
+93,KARDA,INE278R01018,Karda Constructions Limited,2-Apr-18,10
+94,SANDHAR,INE278H01035,Sandhar Technologies Limited,2-Apr-18,10
+95,HAL,INE066F01012,Hindustan Aeronautics Limited,28-Mar-18,10
+96,BANDHANBNK,INE545U01014,Bandhan Bank Limited,27-Mar-18,10
+97,SUNDARMHLD,INE202Z01029,Sundaram Finance Holdings Limited,26-Mar-18,5
+98,BDL,INE171Z01018,Bharat Dynamics Limited,23-Mar-18,10
+99,HGINFRA,INE926X01010,H.G. Infra Engineering Limited,9-Mar-18,10
+100,GMMPFAUDLR,INE541A01023,GMM Pfaudler Limited,5-Mar-18,2
+101,ASTERDM,INE914M01019,Aster DM Healthcare Limited,26-Feb-18,10
+102,SHIVAMILLS,INE644Y01017,Shiva Mills Limited,26-Feb-18,10
+103,GALAXYSURF,INE600K01018,Galaxy Surfactants Limited,8-Feb-18,10
+104,PRAXIS,INE546Y01022,Praxis Home Retail Limited,31-Jan-18,5
+105,AMBER,INE371P01015,Amber Enterprises India Limited,30-Jan-18,10
+106,NEWGEN,INE619B01017,Newgen Software Technologies Limited,29-Jan-18,10
+107,APOLLO,INE713T01010,Apollo Micro Systems Limited,22-Jan-18,10
+108,ASTRON,INE646X01014,Astron Paper & Board Mill Limited,29-Dec-17,10
+109,SHIVATEX,INE705C01020,Shiva Texyarn Limited,26-Dec-17,10
+110,FSC,INE935Q01015,Future Supply Chain Solutions Limited,18-Dec-17,10
+111,SHALBY,INE597J01018,Shalby Limited,15-Dec-17,10
+112,DNAMEDIA,INE016M01021,Diligent Media Corporation Limited,11-Dec-17,1
+113,HDFCLIFE,INE795G01014,HDFC Life Insurance Company Limited,17-Nov-17,10
+114,5PAISA,INE618L01018,5Paisa Capital Limited,16-Nov-17,10
+115,IFGLEXPOR,INE133Y01011,IFGL Refractories Limited,14-Nov-17,10
+116,KHADIM,INE834I01025,Khadim India Limited,14-Nov-17,10
+117,NIACL,INE470Y01017,The New India Assurance Company Limited,13-Nov-17,5
+118,MAHLOG,INE766P01016,Mahindra Logistics Limited,10-Nov-17,10
+119,RNAM,INE298J01013,Reliance Nippon Life Asset Management Limited,6-Nov-17,10
+120,TIINDIA,INE974X01010,Tube Investments of India Limited,2-Nov-17,1
+121,GICRE,INE481Y01014,General Insurance Corporation of India,25-Oct-17,5
+122,IEX,INE022Q01020,Indian Energy Exchange Limited,23-Oct-17,1
+123,MASFIN,INE348L01012,MAS Financial Services Limited,18-Oct-17,10
+124,TCPLPACK,INE822C01015,TCPL Packaging Limited,17-Oct-17,10
+125,GODREJAGRO,INE850D01014,Godrej Agrovet Limited,16-Oct-17,10
+126,SCAPDVR,INE224E01036,Stampede Capital Limited,10-Oct-17,1
+127,DIAMONDYD,INE393P01035,Prataap Snacks Limited,5-Oct-17,5
+128,SBILIFE,INE123W01016,SBI Life Insurance Company Limited,3-Oct-17,10
+129,ICICIGI,INE765G01017,ICICI Lombard General Insurance Company Limited,27-Sep-17,10
+130,CHOLAHLDNG,INE149A01033,Cholamandalam Financial Holdings Limited,25-Sep-17,1
+131,CAPACITE,INE264T01014,Capacit'e Infraprojects Limited,25-Sep-17,10
+132,RHFL,INE217K01011,Reliance Home Finance Limited,22-Sep-17,10
+133,LASA,INE670X01014,Lasa Supergenerics Limited,21-Sep-17,10
+134,DCAL,INE385W01011,Dishman Carbogen Amcis Limited,21-Sep-17,2
+135,MATRIMONY,INE866R01028,Matrimony.Com Limited,21-Sep-17,5
+136,BRNL,INE727S01012,Bharat Road Network Limited,18-Sep-17,10
+137,DIXON,INE935N01012,Dixon Technologies (India) Limited,18-Sep-17,10
+138,APEX,INE346W01013,Apex Frozen Foods Limited,4-Sep-17,10
+139,ABCAPITAL,INE674K01013,Aditya Birla Capital Limited,1-Sep-17,10
+140,SMSLIFE,INE320X01016,SMS Lifesciences India Limited,17-Aug-17,10
+141,COCHINSHIP,INE704P01017,Cochin Shipyard Limited,11-Aug-17,10
+142,SIS,INE285J01010,Security and Intelligence Services (India) Limited,10-Aug-17,10
+143,SPTL,INE501W01021,Sintex Plastics Technology Limited,8-Aug-17,1
+144,OPTIEMUS,INE350C01017,Optiemus Infracom Limited,8-Aug-17,10
+145,THEINVEST,INE924D01017,The Investment Trust Of India Limited,2-Aug-17,10
+146,AVADHSUGAR,INE349W01017,Avadh Sugar & Energy Limited,28-Jul-17,10
+147,PALASHSECU,INE471W01019,Palash Securities Limited,28-Jul-17,10
+148,GANGESSECU,INE335W01016,Ganges Securities Limited,28-Jul-17,10
+149,MAGADSUGAR,INE347W01011,Magadh Sugar & Energy Limited,28-Jul-17,10
+150,SALASAR,INE170V01019,Salasar Techno Engineering Limited,25-Jul-17,10
+151,AGLSL,INE517U01013,Artemis Global Life Sciences Limited,20-Jul-17,2
+152,BHAGYAPROP,INE363W01018,Bhagyanagar Properties Limited,20-Jul-17,2
+153,STEELXIND,INE503B01013,STEEL EXCHANGE INDIA LIMITED,20-Jul-17,10
+154,DYNPRO,INE256H01015,Dynemic Products Limited,19-Jul-17,10
+155,AUBANK,INE949L01017,AU Small Finance Bank Limited,10-Jul-17,10
+156,GTPL,INE869I01013,GTPL Hathway Limited,4-Jul-17,10
+157,CDSL,INE736A01011,Central Depository Services (India) Limited,30-Jun-17,10
+158,ERIS,INE406M01024,Eris Lifesciences Limited,29-Jun-17,1
+159,TEJASNET,INE010J01012,Tejas Networks Limited,27-Jun-17,10
+160,STARCEMENT,INE460H01021,Star Cement Limited,16-Jun-17,1
+161,PSPPROJECT,INE488V01015,PSP Projects Limited,29-May-17,10
+162,HUDCO,INE031A01017,Housing & Urban Development Corporation Limited,19-May-17,10
+163,BHAGYANGR,INE458B01036,Bhagyanagar India Limited,17-May-17,2
+164,SCHAND,INE807K01035,S Chand And Company Limited,9-May-17,5
+165,DOLLAR,INE325C01035,Dollar Industries Limited,21-Apr-17,2
+166,WIPL,INE215F01023,The Western India Plywoods Limited,17-Apr-17,10
+167,PODDARHOUS,INE888B01018,Poddar Housing and Development Limited,10-Apr-17,10
+168,APCL,INE071F01012,Anjani Portland Cement Limited,10-Apr-17,10
+169,NACLIND,INE295D01020,NACL Industries Limited,7-Apr-17,1
+170,NRAIL,INE740D01017,N R Agarwal Industries Limited,5-Apr-17,10
+171,SHANKARA,INE274V01019,Shankara Building Products Limited,5-Apr-17,10
+172,CLEDUCATE,INE201M01011,CL Educate Limited,31-Mar-17,10
+173,URJA,INE550C01020,Urja Global Limited,28-Mar-17,1
+174,AKSHARCHEM,INE542B01011,AksharChem India Limited,28-Mar-17,10
+175,ARIHANTSUP,INE643K01018,Arihant Superstructures Limited,28-Mar-17,10
+176,TASTYBITE,INE488B01017,Tasty Bite Eatables Limited,23-Mar-17,10
+177,INTENTECH,INE781A01025,Intense Technologies Limited,23-Mar-17,2
+178,DMART,INE192R01011,Avenue Supermarts Limited,21-Mar-17,10
+179,RADIOCITY,INE919I01024,Music Broadcast Limited,17-Mar-17,2
+180,JITFINFRA,INE863T01013,JITF Infralogistics Limited,27-Feb-17,2
+181,KALYANI,INE610E01010,Kalyani Commercials Limited,13-Feb-17,10
+182,PRICOLLTD,INE726V01018,Pricol Limited,10-Feb-17,1
+183,BSE,INE118H01025,BSE Limited,3-Feb-17,2
+184,BHANDARI,INE474E01029,Bhandari Hosiery Exports Limited,30-Jan-17,1
+185,CAPTRUST,INE707C01018,Capital Trust Limited,16-Jan-17,10
+186,SPCENET,INE970N01027,Spacenet Enterprises India Limited,10-Jan-17,1
+187,HISARMETAL,INE598C01011,Hisar Metal Industries Limited,5-Jan-17,10
+188,ITDC,INE353K01014,India Tourism Development Corporation Limited,30-Dec-16,10
+189,TERASOFT,INE482B01010,Tera Software Limited,29-Dec-16,10
+190,DFMFOODS,INE456C01020,DFM Foods Limited,29-Dec-16,2
+191,LAURUSLABS,INE947Q01010,Laurus Labs Limited,19-Dec-16,10
+192,TCIEXP,INE586V01016,TCI Express Limited,15-Dec-16,2
+193,TMRVL,INE759V01019,The Mandhana Retail Ventures Limited,14-Dec-16,10
+194,SFL,INE916U01025,Sheela Foam Limited,9-Dec-16,5
+195,KIOCL,INE880L01014,KIOCL Limited,29-Nov-16,10
+196,CMICABLES,INE981B01011,CMI Limited,29-Nov-16,10
+197,NBIFIN,INE365I01020,N. B. I. Industrial Finance Company Limited,23-Nov-16,5
+198,SANCO,INE782L01012,Sanco Industries Limited,22-Nov-16,10
+199,ROLLT,INE927A01040,Rollatainers Limited,22-Nov-16,1
+200,PODDARMENT,INE371C01013,Poddar Pigments Limited,22-Nov-16,10
+201,KINGFA,INE473D01015,Kingfa Science & Technology (India) Limited,15-Nov-16,10
+202,VBL,INE200M01013,Varun Beverages Limited,8-Nov-16,10
+203,PNBHOUSING,INE572E01012,PNB Housing Finance Limited,7-Nov-16,10
+204,MAZDA,INE885E01034,Mazda Limited,1-Nov-16,10
+205,NIRAJISPAT,INE326T01011,Niraj Ispat Industries Limited,27-Oct-16,10
+206,ENDURANCE,INE913H01037,Endurance Technologies Limited,19-Oct-16,10
+207,MASKINVEST,INE885F01015,Mask Investments Limited,14-Oct-16,10
+208,HPL,INE495S01016,HPL Electric & Power Limited,4-Oct-16,10
+209,ICICIPRULI,INE726G01019,ICICI Prudential Life Insurance Company Limited,29-Sep-16,10
+210,MARATHON,INE182D01020,Marathon Nextgen Realty Limited,29-Sep-16,5
+211,GNA,INE934S01014,GNA Axles Limited,26-Sep-16,10
+212,LTTS,INE010V01017,L&T Technology Services Limited,23-Sep-16,2
+213,CUPID,INE509F01011,Cupid Limited,16-Sep-16,10
+214,TVVISION,INE871L01013,TV Vision Limited,15-Sep-16,10
+215,SABEVENTS,INE860T01019,Sab Events & Governance Now Media Limited,15-Sep-16,10
+216,BIGBLOC,INE412U01017,Bigbloc Construction Limited,2-Sep-16,10
+217,RBLBANK,INE976G01028,RBL Bank Limited,31-Aug-16,10
+218,FRETAIL,INE752P01024,Future Retail Limited,29-Aug-16,2
+219,NDGL,INE756C01015,Naga Dhunseri Group Limited,29-Aug-16,10
+220,SPAL,INE212I01016,S. P. Apparels Limited,12-Aug-16,10
+221,DBL,INE917M01012,Dilip Buildcon Limited,11-Aug-16,10
+222,MINDTECK,INE110B01017,Mindteck (India) Limited,2-Aug-16,10
+223,ADVENZYMES,INE837H01020,Advanced Enzyme Technologies Limited,1-Aug-16,2
+224,STAMPEDE,INE224E01028,Stampede Capital Limited,25-Jul-16,1
+225,LTI,INE214T01019,Larsen & Toubro Infotech Limited,21-Jul-16,1
+226,LSIL,INE093R01011,Lloyds Steels Industries Limited,18-Jul-16,1
+227,SOMICONVEY,INE323J01019,Somi Conveyor Beltings Limited,18-Jul-16,10
+228,MAXINDIA,INE153U01017,Max India Limited,14-Jul-16,2
+229,GROBTEA,INE646C01018,The Grob Tea Company Limited,14-Jul-16,10
+230,QUESS,INE615P01015,Quess Corp Limited,12-Jul-16,10
+231,GPTINFRA,INE390G01014,GPT Infraprojects Limited,11-Jul-16,10
+232,VIJIFIN,INE159N01027,Viji Finance Limited,11-Jul-16,1
+233,MOLDTECH,INE835B01035,Mold-Tek Technologies Limited,7-Jul-16,2
+234,COMPINFO,INE070C01037,Compuage Infocom Limited,7-Jul-16,2
+235,POKARNA,INE637C01025,Pokarna Limited,7-Jul-16,2
+236,DAMODARIND,INE497D01022,Damodar Industries Limited,4-Jul-16,5
+237,ADHUNIKIND,INE452L01012,Adhunik Industries Limited,1-Jul-16,10
+238,MGL,INE002S01010,Mahanagar Gas Limited,1-Jul-16,10
+239,SETCO,INE878E01021,Setco Automotive Limited,1-Jul-16,2
+240,MAHASTEEL,INE451L01014,Mahamaya Steel Industries Limited,1-Jul-16,10
+241,UVSL,INE292A01023,Uttam Value Steels Limited,24-Jun-16,1
+242,CONTROLPR,INE663B01015,Control Print Limited,24-Jun-16,10
+243,MAXVIL,INE154U01015,Max Ventures and Industries Limited,22-Jun-16,10
+244,PREMEXPLN,INE863B01011,Premier Explosives Limited,17-Jun-16,10
+245,SALONA,INE498E01010,Salona Cotspin Limited,16-Jun-16,10
+246,NAGAFERT,INE454M01024,Nagarjuna Fertilizers and Chemicals Limited,15-Jun-16,1
+247,BLS,INE153T01027,BLS International Services Limited,14-Jun-16,1
+248,ABMINTLTD,INE251C01017,ABM International Limited,14-Jun-16,10
+249,ALBERTDAVD,INE155C01010,Albert David Limited,14-Jun-16,10
+250,ARMANFIN,INE109C01017,Arman Financial Services Limited,14-Jun-16,10
+251,ASPINWALL,INE991I01015,Aspinwall and Company Limited,14-Jun-16,10
+252,SHRIPISTON,INE526E01018,Shriram Pistons & Rings Limited,2-Jun-16,10
+253,PARAGMILK,INE883N01014,Parag Milk Foods Limited,19-May-16,10
+254,CROMPTON,INE299U01018,Crompton Greaves Consumer Electricals Limited,13-May-16,2
+255,UJJIVAN,INE334L01012,Ujjivan Financial Services Limited,10-May-16,10
+256,THYROCARE,INE594H01019,Thyrocare Technologies Limited,9-May-16,10
+257,PALREDTEC,INE218G01033,Palred Technologies Limited,9-May-16,10
+258,EQUITAS,INE988K01017,Equitas Holdings Limited,21-Apr-16,10
+259,INFIBEAM,INE483S01020,Infibeam Avenues Limited,4-Apr-16,1
+260,BHARATWIRE,INE316L01019,Bharat Wire Ropes Limited,1-Apr-16,10
+261,PDMJEPAPER,INE865T01018,Pudumjee Paper Products Limited,30-Mar-16,1
+262,HCG,INE075I01017,Healthcare Global Enterprises Limited,30-Mar-16,10
+263,KDDL,INE291D01011,KDDL Limited,23-Mar-16,10
+264,SIMBHALS,INE748T01016,Simbhaoli Sugars Limited,14-Mar-16,10
+265,GOKULAGRO,INE314T01025,Gokul Agro Resources Limited,11-Mar-16,2
+266,SEQUENT,INE807F01027,Sequent Scientific Limited,10-Mar-16,2
+267,NECCLTD,INE553C01016,North Eastern Carrying Corporation Limited,2-Mar-16,10
+268,KELLTONTEC,INE164B01022,Kellton Tech Solutions Limited,2-Mar-16,5
+269,BHAGERIA,INE354C01027,Bhageria Industries Limited,2-Mar-16,5
+270,VIDHIING,INE632C01026,Vidhi Specialty Food Ingredients Limited,2-Mar-16,1
+271,QUICKHEAL,INE306L01010,Quick Heal Technologies Limited,18-Feb-16,10
+272,TEAMLEASE,INE985S01024,Teamlease Services Limited,12-Feb-16,10
+273,PRECAM,INE484I01029,Precision Camshafts Limited,8-Feb-16,10
+274,JSLHISAR,INE455T01018,Jindal Stainless (Hisar) Limited,28-Jan-16,2
+275,OCCL,INE321D01016,Oriental Carbon & Chemicals Limited,27-Jan-16,10
+276,NH,INE410P01011,Narayana Hrudayalaya Ltd.,6-Jan-16,10
+277,ALKEM,INE540L01014,Alkem Laboratories Limited,23-Dec-15,2
+278,LALPATHLAB,INE600L01024,Dr. Lal Path Labs Ltd.,23-Dec-15,10
+279,LINCOLN,INE405C01035,Lincoln Pharmaceuticals Limited,17-Dec-15,10
+280,KRIDHANINF,INE524L01026,Kridhan Infra Limited,11-Dec-15,2
+281,PILANIINVS,INE417C01014,Pilani Investment and Industries Corporation Limited,8-Dec-15,10
+282,UMANGDAIRY,INE864B01027,Umang Dairies Limited,2-Dec-15,5
+283,TTKHLTCARE,INE910C01018,TTK Healthcare Limited,2-Dec-15,10
+284,SALZERELEC,INE457F01013,Salzer Electronics Limited,2-Dec-15,10
+285,BALAXI,INE618N01014,Balaxi Ventures Limited,30-Nov-15,10
+286,LUXIND,INE150G01020,Lux Industries Limited,30-Nov-15,2
+287,SHK,INE500L01026,S H Kelkar and Company Limited,16-Nov-15,10
+288,INDIGO,INE646L01027,InterGlobe Aviation Limited,10-Nov-15,10
+289,IDFCFIRSTB,INE092T01019,IDFC First Bank Limited,6-Nov-15,10
+290,COFFEEDAY,INE335K01011,Coffee Day Enterprises Limited,2-Nov-15,10
+291,PRABHAT,INE302M01033,Prabhat Dairy Limited,21-Sep-15,10
+292,SADBHIN,INE764L01010,Sadbhav Infrastructure Project Limited,16-Sep-15,10
+293,GUJGASLTD,INE844O01030,Gujarat Gas Limited,15-Sep-15,2
+294,SHREEPUSHK,INE712K01011,Shree Pushkar Chemicals & Fertilisers Limited,10-Sep-15,10
+295,NAVKARCORP,INE278M01019,Navkar Corporation Limited,9-Sep-15,10
+296,SHARDAMOTR,INE597I01010,Sharda Motor Industries Limited,3-Sep-15,10
+297,ARVSMART,INE034S01021,Arvind SmartSpaces Limited,26-Aug-15,10
+298,SATIN,INE836B01017,Satin Creditcare Network Limited,26-Aug-15,10
+299,POWERMECH,INE211R01019,Power Mech Projects Limited,26-Aug-15,10
+300,MUTHOOTCAP,INE296G01013,Muthoot Capital Services Limited,24-Aug-15,10
+301,ORTINLABSS,INE749B01012,Ortin Laboratories Limited,21-Aug-15,10
+302,MAJESCO,INE898S01029,Majesco Limited,19-Aug-15,5
+303,PKTEA,INE431F01018,The Peria Karamalai Tea & Produce Company Limited,19-Aug-15,10
+304,RAMASTEEL,INE230R01027,Rama Steel Tubes Limited,19-Aug-15,5
+305,KAYA,INE587G01015,Kaya Limited,14-Aug-15,10
+306,AYMSYNTEX,INE193B01039,AYM Syntex Limited,14-Aug-15,10
+307,SYNGENE,INE398R01022,Syngene International Limited,11-Aug-15,10
+308,ADANITRANS,INE931S01010,Adani Transmission Limited,31-Jul-15,10
+309,BALKRISHNA,INE875R01011,Balkrishna Paper Mills Limited,28-Jul-15,10
+310,SHYAMCENT,INE979R01011,Shyam Century Ferrous Limited,28-Jul-15,1
+311,ORICONENT,INE730A01022,Oricon Enterprises Limited,24-Jul-15,2
+312,ALANKIT,INE914E01040,Alankit Limited,30-Jun-15,1
+313,SKIPPER,INE439E01022,Skipper Limited,27-May-15,1
+314,PNCINFRA,INE195J01029,PNC Infratech Limited,26-May-15,2
+315,NILAINFRA,INE937C01029,Nila Infrastructures Limited,21-May-15,1
+316,ARROWGREEN,INE570D01018,Arrow Greentech Limited,21-May-15,10
+317,TPLPLASTEH,INE413G01014,TPL Plastech Limited,20-May-15,10
+318,UFO,INE527H01019,UFO Moviez India Limited,14-May-15,10
+319,BCG,INE425B01027,Brightcom Group Limited,8-May-15,2
+320,FAIRCHEM,INE959A01019,Fairchem Speciality Limited,8-May-15,10
+321,MEP,INE776I01010,MEP Infrastructure Developers Limited,6-May-15,10
+322,VRLLOG,INE366I01010,VRL Logistics Limited,30-Apr-15,10
+323,VETO,INE918N01018,Veto Switchgears And Cables Limited,29-Apr-15,10
+324,VIPULLTD,INE946H01037,Vipul Limited,23-Apr-15,1
+325,AVANTIFEED,INE871C01038,Avanti Feeds Limited,15-Apr-15,1
+326,BYKE,INE319B01014,The Byke Hospitality Ltd,15-Apr-15,10
+327,LFIC,INE850E01012,Lakshmi Finance & Industrial Corporation Limited,15-Apr-15,10
+328,INOXWIND,INE066P01011,Inox Wind Limited,9-Apr-15,10
+329,ADLABS,INE172N01012,Adlabs Entertainment Limited,6-Apr-15,10
+330,BKMINDST,INE831Q01016,Bkm Industries Limited,30-Mar-15,1
+331,MANAKSTEEL,INE824Q01011,Manaksia Steels Limited,30-Mar-15,1
+332,ZENTEC,INE251B01027,Zen Technologies Limited,30-Mar-15,1
+333,MANAKCOAT,INE830Q01018,Manaksia Coated Metals & Industries Limited,30-Mar-15,1
+334,MANAKALUCO,INE859Q01017,Manaksia Aluminium Company Limited,30-Mar-15,1
+335,JMA,INE412C01023,Jullundur Motor Agency (Delhi) Limited,16-Mar-15,2
+336,HESTERBIO,INE782E01017,Hester Biosciences Limited,13-Mar-15,10
+337,MENONBE,INE071D01033,Menon Bearings Limited,9-Mar-15,1
+338,LINCPEN,INE802B01019,Linc Pen & Plastics Limited,9-Mar-15,10
+339,GANECOS,INE845D01014,Ganesha Ecosphere Limited,9-Mar-15,10
+340,VISHNU,INE270I01014,Vishnu Chemicals Limited,5-Mar-15,10
+341,GREENLAM,INE544R01013,Greenlam Industries Limited,2-Mar-15,5
+342,MOLDTKPAC,INE893J01029,Mold-Tek Packaging Limited,23-Feb-15,5
+343,GENUSPAPER,INE949P01018,Genus Paper & Boards Limited,16-Feb-15,1
+344,GRPLTD,INE137I01015,GRP Limited,12-Feb-15,10
+345,LAMBODHARA,INE112F01022,Lambodhara Textiles Limited,4-Feb-15,5
+346,CCHHL,INE652F01027,Country Club Hospitality & Holidays Limited,3-Feb-15,2
+347,SHAKTIPUMP,INE908D01010,Shakti Pumps (India) Limited,29-Jan-15,10
+348,APOLSINHOT,INE451F01024,Apollo Sindoori Hotels Limited,28-Jan-15,5
+349,GULPOLY,INE255D01024,Gulshan Polyols Limited,28-Jan-15,1
+350,UNITEDTEA,INE458F01011,The United Nilgiri Tea Estates Company Limited,28-Jan-15,10
+351,CAMLINFINE,INE052I01032,Camlin Fine Sciences Limited,20-Jan-15,1
+352,DTIL,INE341R01014,Dhunseri Tea & Industries Limited,20-Jan-15,10
+353,FCL,INE045J01026,Fineotex Chemical Limited,15-Jan-15,2
+354,BEARDSELL,INE520H01022,Beardsell Limited,13-Jan-15,2
+355,GOODLUCK,INE127I01024,Goodluck India Limited,8-Jan-15,2
+356,AMRUTANJAN,INE098F01031,Amrutanjan Health Care Limited,2-Jan-15,1
+357,MONTECARLO,INE950M01013,Monte Carlo Fashions Limited,19-Dec-14,10
+358,INTELLECT,INE306R01017,Intellect Design Arena Limited,18-Dec-14,5
+359,MANAPPURAM,INE522D01027,Manappuram Finance Limited,1-Dec-14,2
+360,PDSMFL,INE111Q01013,PDS Multinational Fashions Limited,21-Oct-14,10
+361,MINDACORP,INE842C01021,Minda Corporation Limited,16-Oct-14,2
+362,CIGNITITEC,INE675C01017,Cigniti Technologies Limited,13-Oct-14,10
+363,SHEMAROO,INE363M01019,Shemaroo Entertainment Limited,1-Oct-14,10
+364,SUPERHOUSE,INE712B01010,Superhouse Limited,26-Sep-14,10
+365,SHARDACROP,INE221J01015,Sharda Cropchem Limited,23-Sep-14,10
+366,SNOWMAN,INE734N01019,Snowman Logistics Limited,12-Sep-14,10
+367,GULFOILLUB,INE635Q01029,Gulf Oil Lubricants India Limited,31-Jul-14,2
+368,GOCLCORP,INE077F01035,GOCL Corporation Limited,26-Jun-14,2
+369,CAPLIPOINT,INE475E01026,Caplin Point Laboratories Limited,23-Jun-14,2
+370,HATSUN,INE473B01035,Hatsun Agro Product Limited,20-Jun-14,1
+371,AGARIND,INE204E01012,Agarwal Industrial Corporation Limited,26-May-14,10
+372,WONDERLA,INE066O01014,Wonderla Holidays Limited,9-May-14,10
+373,BUTTERFLY,INE295F01017,Butterfly Gandhimathi Appliances Limited,28-Apr-14,10
+374,ARCOTECH,INE574I01035,Arcotech Limited,16-Apr-14,2
+375,SDBL,INE480C01012,Som Distilleries & Breweries Limited,18-Mar-14,10
+376,CASTROLIND,INE172A01027,Castrol India Limited,14-Mar-14,5
+377,AGRITECH,INE449G01018,Agri-Tech (India) Limited,28-Jan-14,10
+378,NATHBIOGEN,INE448G01010,Nath Bio-Genes (India) Limited,28-Jan-14,10
+379,SREEL,INE099F01013,Sreeleathers Limited,1-Jan-14,10
+380,CNOVAPETRO,INE672K01025,CIL Nova Petrochemicals Limited,1-Jan-14,10
+381,JPOLYINVST,INE147P01019,Jindal Poly Investment and Finance Company Limited,11-Nov-13,10
+382,ORBTEXP,INE231G01010,Orbit Exports Limited,5-Nov-13,10
+383,LYPSAGEMS,INE142K01011,Lypsa Gems & Jewellery Limited,5-Nov-13,10
+384,PILITA,INE600A01035,PIL ITALICA LIFESTYLE LIMITED,7-Oct-13,1
+385,FLFL,INE452O01016,Future Lifestyle Fashions Limited,1-Oct-13,2
+386,NTL,INE333I01036,Neueon Towers Limited,11-Sep-13,10
+387,INTEGRA,INE418N01027,Integra Garments and Textiles Limited,20-Aug-13,3
+388,IBULHSGFIN,INE148I01020,Indiabulls Housing Finance Limited,23-Jul-13,2
+389,ABFRL,INE647O01011,Aditya Birla Fashion and Retail Limited,17-Jul-13,10
+390,ORIENTCEM,INE876N01018,Orient Cement Limited,12-Jul-13,1
+391,FCONSUMER,INE220J01025,Future Consumer Limited,4-Jul-13,6
+392,CEREBRAINT,INE345B01019,Cerebra Integrated Technologies Limited,26-Jun-13,10
+393,ATULAUTO,INE951D01028,Atul Auto Limited,26-Jun-13,5
+394,JUSTDIAL,INE599M01018,Just Dial Limited,5-Jun-13,10
+395,VIMALOIL,INE067D01015,Vimal Oil & Foods Limited,21-May-13,10
+396,VIVIDHA,INE370E01029,Visagar Polytex Limited,21-May-13,1
+397,GSCLCEMENT,INE542A01039,Gujarat Sidhee Cement Limited,15-May-13,10
+398,NIBL,INE047O01014,NRB Industrial Bearings Limited,9-Apr-13,2
+399,REPCOHOME,INE612J01015,Repco Home Finance Limited,1-Apr-13,10
+400,ANKITMETAL,INE106I01010,Ankit Metal & Power Limited,14-Mar-13,10
+401,MOHITIND,INE954E01012,Mohit Industries Limited,14-Mar-13,10
+402,VMART,INE665J01013,V-Mart Retail Limited,20-Feb-13,10
+403,INFRATEL,INE121J01017,Bharti Infratel Limited,28-Dec-12,10
+404,PCJEWELLER,INE785M01013,PC Jeweller Limited,27-Dec-12,10
+405,CARERATING,INE752H01013,CARE Ratings Limited,26-Dec-12,10
+406,ZUARI,INE840M01016,Zuari Agro Chemicals Limited,27-Nov-12,10
+407,SUNCLAYLTD,INE105A01035,Sundaram Clayton Limited,23-Oct-12,5
+408,PROSEED,INE217G01027,Proseed India Limited,16-Oct-12,1
+409,DUCON,INE741L01018,Ducon Infratechnologies Limited,9-Oct-12,1
+410,KITEX,INE602G01020,Kitex Garments Limited,25-Sep-12,1
+411,ROSSELLIND,INE847C01020,Rossell India Limited,25-Sep-12,2
+412,MAYURUNIQ,INE040D01038,Mayur Uniquoters Ltd,25-Sep-12,5
+413,MORARJEE,INE161G01027,Morarjee Textiles Limited,14-Sep-12,7
+414,PROZONINTU,INE195N01013,Prozone Intu Properties Limited,12-Sep-12,2
+415,RTNINFRA,INE834M01019,RattanIndia Infrastructure Limited,30-Jul-12,2
+416,SEPOWER,INE735M01018,S.E. Power Limited,27-Jul-12,10
+417,CINELINE,INE704H01022,Cineline India Limited,13-Jun-12,5
+418,EON,INE076H01025,Eon Electric Limited,7-Jun-12,5
+419,SPECIALITY,INE247M01014,Speciality Restaurants Limited,30-May-12,10
+420,CHROMATIC,INE662C01015,Chromatic India Limited,29-May-12,10
+421,SWANENERGY,INE665A01038,Swan Energy Limited,29-May-12,1
+422,VSSL,INE050M01012,Vardhman Special Steels Limited,17-May-12,10
+423,TBZ,INE760L01018,Tribhovandas Bhimji Zaveri Limited,9-May-12,10
+424,HEXATRADEX,INE750M01017,Hexa Tradex Limited,20-Apr-12,2
+425,NBCC,INE095N01031,NBCC (India) Limited,12-Apr-12,1
+426,MTEDUCARE,INE472M01018,MT Educare Limited,12-Apr-12,10
+427,MMTC,INE123F01029,MMTC Limited,9-Apr-12,1
+428,NAGAROIL,INE453M01018,Nagarjuna Oil Refinery Limited,28-Mar-12,1
+429,PROVOGE,INE968G01033,Provogue (India) Limited,26-Mar-12,1
+430,NDL,INE875G01030,Nandan Denim Limited,23-Mar-12,10
+431,SCHNEIDER,INE839M01018,Schneider Electric Infrastructure Limited,20-Mar-12,2
+432,ORIENTREF,INE743M01012,Orient Refractories Limited,12-Mar-12,1
+433,MCX,INE745G01035,Multi Commodity Exchange of India Limited,9-Mar-12,10
+434,COMPUSOFT,INE453B01029,Compucom Software Limited,2-Mar-12,2
+435,DBSTOCKBRO,INE921B01025,DB (International) Stock Brokers Limited,29-Feb-12,2
+436,THOMASCOTT,INE480M01011,Thomas Scott (India) Limited,30-Jan-12,10
+437,KANANIIND,INE879E01037,Kanani Industries Limited,14-Dec-11,1
+438,APLAPOLLO,INE702C01019,APL Apollo Tubes Limited,14-Dec-11,10
+439,VIKASECO,INE806A01020,Vikas EcoTech Limited,12-Dec-11,1
+440,RUPA,INE895B01021,Rupa & Company Limited,7-Dec-11,1
+441,POLYMED,INE205C01021,Poly Medicure Limited,7-Dec-11,5
+442,DSSL,INE417B01040,Dynacons Systems & Solutions Limited,1-Dec-11,10
+443,JISLDVREQS,IN9175A01010,Jain Irrigation Systems Limited,30-Nov-11,2
+444,ESSARSHPNG,INE122M01019,Essar Shipping Limited,15-Nov-11,10
+445,INDOTHAI,INE337M01013,Indo Thai Securities Limited,2-Nov-11,10
+446,TRITURBINE,INE152M01016,Triveni Turbine Limited,28-Oct-11,1
+447,UJAAS,INE899L01022,Ujaas Energy Limited,20-Oct-11,1
+448,FLEXITUFF,INE060J01017,Flexituff Ventures International Limited,19-Oct-11,10
+449,PAISALO,INE420C01042,Paisalo Digital Limited,17-Oct-11,10
+450,ONELIFECAP,INE912L01015,Onelife Capital Advisors Limited,17-Oct-11,10
+451,TIJARIA,INE440L01017,Tijaria Polypipes Limited,14-Oct-11,10
+452,SETUINFRA,INE023M01027,Setubandhan Infrastructure Limited,4-Oct-11,1
+453,PANAMAPET,INE305C01029,Panama Petrochem Limited,30-Sep-11,2
+454,PGEL,INE457L01011,PG Electroplast Limited,26-Sep-11,10
+455,VASWANI,INE590L01019,Vaswani Industries Limited,20-Sep-11,10
+456,APLLTD,INE901L01018,Alembic Pharmaceuticals Limited,20-Sep-11,2
+457,TECHIN,INE778A01021,Techindia Nirman Limited,8-Sep-11,10
+458,CIMMCO,INE184C01028,Cimmco Limited,8-Sep-11,10
+459,TDPOWERSYS,INE419M01019,TD Power Systems Limited,8-Sep-11,10
+460,BROOKS,INE650L01011,Brooks Laboratories Limited,5-Sep-11,10
+461,FILATEX,INE816B01027,Filatex India Limited,29-Aug-11,2
+462,ASAHISONG,INE228I01012,Asahi Songwon Colors Limited,29-Aug-11,10
+463,TREEHOUSE,INE040M01013,Tree House Education & Accessories Limited,26-Aug-11,10
+464,WINSOME,INE784B01035,Winsome Yarns Limited,25-Aug-11,10
+465,BODALCHEM,INE338D01028,Bodal Chemicals Limited,22-Aug-11,2
+466,GAYAPROJ,INE336H01023,Gayatri Projects Limited,22-Aug-11,2
+467,IBULISL,INE126M01010,Indiabulls Integrated Services Limited,18-Aug-11,2
+468,WINDMACHIN,INE052A01021,Windsor Machines Limited,17-Aug-11,2
+469,L&TFH,INE498L01015,L&T Finance Holdings Limited,12-Aug-11,10
+470,ELGIRUBCO,INE819L01012,Elgi Rubber Company Limited,10-Aug-11,1
+471,INVENTURE,INE878H01016,Inventure Growth & Securities Limited,4-Aug-11,10
+472,BGLOBAL,INE224M01013,Bharatiya Global Infomedia Limited,28-Jul-11,10
+473,RUSHIL,INE573K01017,Rushil Decor Limited,7-Jul-11,10
+474,MAITHANALL,INE683C01011,Maithan Alloys Limited,5-Jul-11,10
+475,KWALITY,INE775B01025,kwality limited,5-Jul-11,1
+476,ASHIANA,INE365D01021,Ashiana Housing Limited,29-Jun-11,2
+477,DHANUKA,INE435G01025,Dhanuka Agritech Limited,29-Jun-11,2
+478,WEIZFOREX,INE726L01019,Weizmann Forex Limited,28-Jun-11,10
+479,KARMAENG,INE725L01011,Karma Energy Limited,28-Jun-11,10
+480,DQE,INE656K01010,DQ Entertainment (International) Limited,20-Jun-11,10
+481,ESTER,INE778B01029,Ester Industries Limited,20-Jun-11,5
+482,VSTTILLERS,INE764D01017,V.S.T Tillers Tractors Limited,20-Jun-11,10
+483,OMMETALS,INE239D01028,OM Metals Infraprojects Limited,17-Jun-11,1
+484,RELAXO,INE131B01039,Relaxo Footwears Limited,17-Jun-11,1
+485,VADILALIND,INE694D01016,Vadilal Industries Limited,15-Jun-11,10
+486,PIIND,INE603J01030,PI Industries Limited,15-Jun-11,1
+487,SYMPHONY,INE225D01027,Symphony Limited,15-Jun-11,2
+488,SANGHVIFOR,INE263L01013,Sanghvi Forging and Engineering Limited,23-May-11,10
+489,MUTHOOTFIN,INE414G01012,Muthoot Finance Limited,6-May-11,10
+490,TCIDEVELOP,INE662L01016,TCI Developers Limited,19-Apr-11,10
+491,PFS,INE560K01014,PTC India Financial Services Limited,30-Mar-11,10
+492,LOVABLE,INE597L01014,Lovable Lingerie Limited,24-Mar-11,10
+493,DHUNINV,INE320L01011,Dhunseri Investments Limited,18-Mar-11,10
+494,INDTERRAIN,INE611L01021,Indian Terrain Fashions Limited,11-Mar-11,2
+495,HFCL,INE548A01028,HFCL Limited,9-Mar-11,1
+496,TEXRAIL,INE621L01012,Texmaco Rail & Engineering Limited,3-Mar-11,1
+497,TEXRAIL,INE621L01012,Texmaco Rail & Engineering Limited,3-Mar-11,1
+498,HINDMOTORS,INE253A01025,Hindustan Motors Limited,21-Feb-11,5
+499,BILENERGY,INE607L01029,Bil Energy Systems Limited,15-Feb-11,1
+500,JUBLINDS,INE645L01011,Jubilant Industries Limited,14-Feb-11,10
+501,OMKARCHEM,INE474L01016,Omkar Speciality Chemicals Limited,10-Feb-11,10
+502,STEL,INE577L01016,Stel Holdings Limited,9-Feb-11,10
+503,SUMMITSEC,INE519C01017,Summit Securities Limited,28-Jan-11,10
+504,KICL,INE029L01018,Kalyani Investment Company Limited,14-Jan-11,10
+505,BFINVEST,INE878K01010,BF Investment Limited,14-Jan-11,5
+506,SPYL,INE268L01020,Shekhawati Poly-Yarn Limited,12-Jan-11,1
+507,SURANASOL,INE272L01022,Surana Solar Limited,7-Jan-11,5
+508,FMNL,INE360L01017,Future Market Networks Limited,31-Dec-10,10
+509,PSB,INE608A01012,Punjab & Sind Bank,30-Dec-10,10
+510,RKDL,INE722J01012,Ravi Kumar Distilleries Limited,27-Dec-10,10
+511,KIRLOSENG,INE146L01010,Kirloskar Oil Engines Limited,24-Dec-10,2
+512,A2ZINFRA,INE619I01012,A2Z Infra Engineering Limited,23-Dec-10,10
+513,KTIL,INE096L01025,Kesar Terminals & Infrastructure Limited,22-Dec-10,5
+514,ZEELEARN,INE565L01011,Zee Learn Limited,20-Dec-10,1
+515,MOIL,INE490G01020,MOIL Limited,15-Dec-10,10
+516,SUMEETINDS,INE235C01010,Sumeet Industries Limited,10-Dec-10,10
+517,JAMNAAUTO,INE039C01032,Jamna Auto Industries Limited,10-Dec-10,1
+518,RPPINFRA,INE324L01013,R.P.P. Infra Projects Limited,6-Dec-10,10
+519,JINDWORLD,INE247D01039,Jindal Worldwide Limited,25-Nov-10,1
+520,PENIND,INE932A01024,Pennar Industries Limited,25-Nov-10,5
+521,GRAVITA,INE024L01027,Gravita India Limited,16-Nov-10,2
+522,IOLCP,INE485C01011,IOL Chemicals and Pharmaceuticals Limited,8-Nov-10,10
+523,ANDHRACEMT,INE666E01012,Andhra Cements Limited,8-Nov-10,10
+524,COALINDIA,INE522F01014,Coal India Limited,4-Nov-10,10
+525,CGCL,INE180C01026,Capri Global Capital Limited,29-Oct-10,2
+526,RESPONIND,INE688D01026,Responsive Industries Limited,29-Oct-10,1
+527,PRESTIGE,INE811K01011,Prestige Estates Projects Limited,27-Oct-10,10
+528,GAL,INE482J01021,Gyscoal Alloys Limited,27-Oct-10,1
+529,OBEROIRLTY,INE093I01010,Oberoi Realty Limited,20-Oct-10,10
+530,CEBBCO,INE209L01016,Commercial Engineers & Body Builders Co Limited,18-Oct-10,10
+531,BEDMUTHA,INE844K01012,Bedmutha Industries Limited,14-Oct-10,10
+532,ASHOKA,INE442H01029,Ashoka Buildcon Limited,14-Oct-10,5
+533,WABAG,INE956G01038,VA Tech Wabag Limited,13-Oct-10,2
+534,CANTABIL,INE068L01016,Cantabil Retail India Limited,12-Oct-10,10
+535,GALLISPAT,INE528K01029,Gallantt Ispat Limited,11-Oct-10,1
+536,RAMKY,INE874I01013,Ramky Infrastructure Limited,8-Oct-10,10
+537,GREENPOWER,INE999K01014,Orient Green Power Company Limited,8-Oct-10,10
+538,CAREERP,INE521J01018,Career Point Limited,6-Oct-10,10
+539,EROSMEDIA,INE416L01017,Eros International Media Limited,6-Oct-10,10
+540,SASTASUNDR,INE019J01013,Sastasundar Ventures Limited,5-Oct-10,10
+541,ORISSAMINE,INE725E01024,The Orissa Minerals Development Company Limited,29-Sep-10,1
+542,KILITCH,INE729D01010,Kilitch Drugs (India) Limited,29-Sep-10,10
+543,DEEPAKNTR,INE288B01029,Deepak Nitrite Limited,29-Sep-10,2
+544,WELINV,INE389K01018,Welspun Investments and Commercials Limited,20-Sep-10,10
+545,HINDCOPPER,INE531E01026,Hindustan Copper Limited,15-Sep-10,5
+546,ADFFOODS,INE982B01019,ADF Foods Limited,15-Sep-10,10
+547,GPPL,INE517F01014,Gujarat Pipavav Port Limited,9-Sep-10,10
+548,PRAKASHSTL,INE696K01024,Prakash Steelage Limited,25-Aug-10,1
+549,UGARSUGAR,INE071E01023,The Ugar Sugar Works Limited,23-Aug-10,1
+550,PDPL,INE904D01019,Parenteral Drugs (India) Limited,19-Aug-10,10
+551,BAJAJCON,INE933K01021,Bajaj Consumer Care Limited,18-Aug-10,1
+552,IITL,INE886A01014,Industrial Investment Trust Limited,17-Aug-10,10
+553,AHLEAST,INE926K01017,Asian Hotels (East) Limited,11-Aug-10,10
+554,AHLWEST,INE915K01010,Asian Hotels (West) Limited,5-Aug-10,10
+555,EMAMIREAL,INE778K01012,Emami Realty Limited,28-Jul-10,2
+556,BLISSGVS,INE416D01022,Bliss GVS Pharma Limited,26-Jul-10,1
+557,IMFA,INE919H01018,Indian Metals & Ferro Alloys Limited,23-Jul-10,10
+558,HMVL,INE871K01015,Hindustan Media Ventures Limited,21-Jul-10,10
+559,TECHNOFAB,INE509K01011,Technofab Engineering Limited,16-Jul-10,10
+560,TI,INE133E01013,Tilaknagar Industries Limited,16-Jul-10,10
+561,UMESLTD,INE240C01028,Usha Martin Education & Solutions Limited,12-Jul-10,1
+562,PARABDRUGS,INE618H01016,Parabolic Drugs Limited,1-Jul-10,10
+563,KIRLOSIND,INE250A01039,Kirloskar Industries Limited,24-Jun-10,10
+564,PIONDIST,INE889E01010,Pioneer Distilleries Limited,15-Jun-10,10
+565,SUNDARAM,INE108E01023,Sundaram Multi Pap Limited,2-Jun-10,1
+566,JPINFRATEC,INE099J01015,Jaypee Infratech Limited,21-May-10,10
+567,SJVN,INE002L01015,SJVN Limited,20-May-10,10
+568,KSL,INE907A01026,Kalyani Steels Limited,19-May-10,5
+569,TARAPUR,INE747K01017,Tarapur Transformers Limited,18-May-10,10
+570,NITESHEST,INE639K01016,NEL Holdings Limited,13-May-10,10
+571,TALWALKARS,INE502K01016,Talwalkars Better Value Fitness Limited,10-May-10,10
+572,KIRLOSBROS,INE732A01036,Kirloskar Brothers Limited,20-Apr-10,2
+573,ISFT,INE566K01011,Intrasoft Technologies Limited,12-Apr-10,10
+574,ASIANHOTNR,INE363A01022,Asian Hotels (North) Limited,7-Apr-10,10
+575,WHIRLPOOL,INE716A01013,Whirlpool of India Limited,6-Apr-10,10
+576,PERSISTENT,INE262H01013,Persistent Systems Limited,6-Apr-10,10
+577,PRADIP,INE495J01015,Pradip Overseas Limited,5-Apr-10,10
+578,LGBBROSLTD,INE337A01034,LG Balakrishnan & Bros Limited,30-Mar-10,10
+579,TRF,INE391D01019,TRF Limited,26-Mar-10,10
+580,UNITEDBNK,INE695A01019,United Bank of India,18-Mar-10,10
+581,MANINFRA,INE949H01023,Man Infraconstruction Limited,11-Mar-10,2
+582,TEXMOPIPES,INE141K01013,Texmo Pipes and Products Limited,10-Mar-10,10
+583,DEEPIND,INE677H01012,Deep Industries Limited,9-Mar-10,10
+584,KECL,INE134B01017,Kirloskar Electric Company Limited,9-Mar-10,10
+585,ORIENTLTD,INE609C01024,Orient Press Limited,3-Mar-10,10
+586,ARSSINFRA,INE267I01010,ARSS Infrastructure Projects Limited,3-Mar-10,10
+587,HATHWAY,INE982F01036,Hathway Cable & Datacom Limited,25-Feb-10,2
+588,DBREALTY,INE879I01012,D B Realty Limited,24-Feb-10,10
+589,EMMBI,INE753K01015,Emmbi Industries Limited,24-Feb-10,10
+590,THANGAMAYL,INE085J01014,Thangamayil Jewellery Limited,19-Feb-10,10
+591,VASCONEQ,INE893I01013,Vascon Engineers Limited,15-Feb-10,10
+592,SYNCOM,INE602K01014,Syncom Healthcare Limited,15-Feb-10,10
+593,JUBLFOOD,INE797F01012,Jubilant Foodworks Limited,8-Feb-10,10
+594,MBLINFRA,INE912H01013,MBL Infrastructures Limited,11-Jan-10,10
+595,BAYERCROP,INE462A01022,Bayer Cropscience Limited,8-Jan-10,10
+596,NESTLEIND,INE239A01016,Nestle India Limited,8-Jan-10,10
+597,ABBOTINDIA,INE358A01014,Abbott India Limited,8-Jan-10,10
+598,DBCORP,INE950I01011,D.B.Corp Limited,6-Jan-10,10
+599,GODREJPROP,INE484J01027,Godrej Properties Limited,5-Jan-10,5
+600,JSWENERGY,INE121E01018,JSW Energy Limited,4-Jan-10,10
+601,DLINKINDIA,INE250K01012,D-Link (India) Limited,18-Dec-09,2
+602,ARSHIYA,INE968D01022,Arshiya Limited,14-Dec-09,2
+603,AHLUCONT,INE758C01029,Ahluwalia Contracts (India) Limited,14-Dec-09,2
+604,GILLANDERS,INE047B01011,Gillanders Arbuthnot & Company Limited,14-Dec-09,10
+605,COX&KINGS,INE008I01026,Cox & Kings Limited,11-Dec-09,5
+606,SARDAEN,INE385C01013,Sarda Energy & Minerals Limited,3-Dec-09,10
+607,SHILPAMED,INE790G01031,Shilpa Medicare Limited,3-Dec-09,1
+608,REFEX,INE056I01017,Refex Industries Limited,3-Dec-09,10
+609,ASTEC,INE563J01010,Astec LifeSciences Limited,25-Nov-09,10
+610,DEN,INE947J01015,Den Networks Limited,24-Nov-09,10
+611,SUNTECK,INE805D01034,Sunteck Realty Limited,13-Nov-09,1
+612,ZYDUSWELL,INE768C01010,Zydus Wellness Limited,13-Nov-09,10
+613,RTNPOWER,INE399K01017,RattanIndia Power Limited,30-Oct-09,10
+614,EXPLEOSOL,INE201K01015,Expleo Solutions Limited,26-Oct-09,10
+615,EUROMULTI,INE063J01011,Euro Multivision Limited,15-Oct-09,10
+616,RNAVAL,INE542F01012,Reliance Naval and Engineering Limited,9-Oct-09,10
+617,OIL,INE274J01014,Oil India Limited,30-Sep-09,10
+618,GLOBUSSPR,INE615I01010,Globus Spirits Limited,23-Sep-09,10
+619,JINDCOT,INE904J01016,Jindal Cotex Limited,22-Sep-09,10
+620,NHPC,INE848E01016,NHPC Limited,1-Sep-09,10
+621,ADANIPOWER,INE814H01011,Adani Power Limited,20-Aug-09,10
+622,EXCEL,INE688J01015,Excel Realty N Infra Limited,3-Aug-09,10
+623,VINATIORGA,INE410B01029,Vinati Organics Limited,28-Jul-09,2
+624,GKWLIMITED,INE528A01020,GKW Limited,20-Jul-09,10
+625,MHRIL,INE998I01010,Mahindra Holidays & Resorts India Limited,16-Jul-09,10
+626,AJMERA,INE298G01027,Ajmera Realty & Infra India Limited,16-Jun-09,10
+627,ARROWTEX,INE933J01015,Arrow Textiles Limited,11-May-09,10
+628,HINDNATGLS,INE952A01022,Hindusthan National Glass & Industries Limited,15-Apr-09,2
+629,HARITASEAT,INE939D01015,Harita Seating Systems Limited,6-Apr-09,10
+630,MAWANASUG,INE636A01039,Mawana Sugars Limited,20-Mar-09,10
+631,FELDVR,IN9623B01058,Future Enterprises Limited,13-Feb-09,2
+632,GISOLUTION,INE065J01016,GI Engineering Solutions Limited,30-Jan-09,10
+633,COUNCODOS,INE695B01025,Country Condo's Limited,22-Jan-09,1
+634,JIKIND,INE026B01049,JIK Industries Limited,26-Nov-08,10
+635,ALKALI,INE773I01017,Alkali Metals Limited,6-Nov-08,10
+636,TATAMTRDVR,IN9155A01020,Tata Motors Limited,5-Nov-08,2
+637,NEULANDLAB,INE794A01010,Neuland Laboratories Limited,13-Oct-08,10
+638,JOCIL,INE839G01010,Jocil Limited,8-Oct-08,10
+639,INDBANK,INE841B01017,Indbank Merchant Banking Services Limited,8-Oct-08,10
+640,20MICRONS,INE144J01027,20 Microns Limited,6-Oct-08,5
+641,WABCOINDIA,INE342J01019,WABCO India Limited,1-Oct-08,5
+642,SICAGEN,INE176J01011,Sicagen India Limited,21-Aug-08,10
+643,LPDC,INE197J01017,Landmark Property Development Company Limited,12-Aug-08,1
+644,OISL,INE196J01019,OCL Iron and Steel Limited,1-Aug-08,1
+645,LGBFORGE,INE201J01017,LGB Forge Limited,1-Aug-08,1
+646,KOKUYOCMLN,INE760A01029,Kokuyo Camlin Limited,28-Jul-08,1
+647,UBL,INE686F01025,United Breweries Limited,28-Jul-08,1
+648,VINYLINDIA,INE250B01029,Vinyl Chemicals (India) Limited,21-Jul-08,1
+649,KSK,INE143H01015,KSK Energy Ventures Limited,14-Jul-08,10
+650,LOTUSEYE,INE947I01017,Lotus Eye Hospital and Institute Limited,11-Jul-08,10
+651,ARCHIDPLY,INE877I01016,Archidply Industries Limited,4-Jul-08,10
+652,MVL,INE744I01034,MVL Limited,30-Jun-08,1
+653,GET&D,INE200A01026,GE T&D India Limited,30-Jun-08,2
+654,RANEENGINE,INE222J01013,Rane Engine Valve Limited,24-Jun-08,10
+655,RBL,INE244J01017,Rane Brake Lining Limited,20-Jun-08,10
+656,ALMONDZ,INE326B01027,Almondz Global Securities Limited,16-Jun-08,6
+657,RPGLIFE,INE105J01010,RPG Life Sciences Limited,10-Jun-08,8
+658,GOKUL,INE020J01029,Gokul Refoils and Solvent Limited,4-Jun-08,2
+659,PIRPHYTO,INE122J01015,Piramal Phytocare Limited,29-May-08,10
+660,DIGISPICE,INE927C01020,DiGiSPICE Technologies Limited,27-May-08,3
+661,BAJAJ-AUTO,INE917I01010,Bajaj Auto Limited,26-May-08,10
+662,BAJAJFINSV,INE918I01018,Bajaj Finserv Limited,26-May-08,5
+663,ANIKINDS,INE087B01017,Anik Industries Limited,21-May-08,10
+664,KIRIINDUS,INE415I01015,Kiri Industries Limited,22-Apr-08,10
+665,DPSCLTD,INE360C01024,DPSC Limited,21-Apr-08,1
+666,TWL,INE615H01020,Titagarh Wagons Limited,21-Apr-08,2
+667,EIHAHOTELS,INE276C01014,EIH Associated Hotels Limited,8-Apr-08,10
+668,NESCO,INE317F01035,Nesco Limited,8-Apr-08,2
+669,GAMMNINFRA,INE181G01025,Gammon Infrastructure Projects Limited,3-Apr-08,2
+670,IBVENTURES,INE274G01010,Indiabulls Ventures Limited,2-Apr-08,2
+671,BALLARPUR,INE294A01037,Ballarpur Industries Limited,31-Mar-08,2
+672,VGUARD,INE951I01027,V-Guard Industries Limited,13-Mar-08,1
+673,RECLTD,INE020B01018,REC Limited,12-Mar-08,10
+674,NAHARCAP,INE049I01012,Nahar Capital and Financial Services Limited,11-Mar-08,5
+675,GSS,INE871H01011,GSS Infotech Limited,7-Mar-08,10
+676,NMDC,INE584A01023,NMDC Limited,3-Mar-08,1
+677,SHALPAINTS,INE849C01026,Shalimar Paints Limited,3-Mar-08,2
+678,RAIN,INE855B01025,Rain Industries Limited,3-Mar-08,2
+679,IRB,INE821I01014,IRB Infrastructure Developers Limited,25-Feb-08,10
+680,SHRIRAMEPC,INE964H01014,Shriram EPC Limited,20-Feb-08,10
+681,BANG,INE863I01016,Bang Overseas Limited,20-Feb-08,10
+682,TANTIACONS,INE388G01018,Tantia Constructions Limited,19-Feb-08,10
+683,HERCULES,INE688E01024,Hercules Hoists Limited,19-Feb-08,1
+684,ONMOBILE,INE809I01019,OnMobile Global Limited,19-Feb-08,10
+685,SUJANAUNI,INE216G01011,Sujana Universal Industries Limited,19-Feb-08,10
+686,KNRCON,INE634I01029,KNR Constructions Limited,18-Feb-08,2
+687,CORDSCABLE,INE792I01017,Cords Cable Industries Limited,13-Feb-08,10
+688,JKIL,INE576I01022,J.Kumar Infraprojects Limited,12-Feb-08,5
+689,RPOWER,INE614G01033,Reliance Power Limited,11-Feb-08,10
+690,BIRLAMONEY,INE865C01022,Aditya Birla Money Limited,7-Feb-08,1
+691,CEATLTD,INE482A01020,CEAT Limited,1-Feb-08,10
+692,AMBIKCO,INE540G01014,Ambika Cotton Mills Limited,29-Jan-08,10
+693,KAVVERITEL,INE641C01019,Kavveri Telecom Products Limited,29-Jan-08,10
+694,DVL,INE477B01010,Dhunseri Ventures Limited,11-Jan-08,10
+695,ARIES,INE298I01015,Aries Agro Limited,11-Jan-08,10
+696,PATINTLOG,INE529D01014,Patel Integrated Logistics Limited,11-Jan-08,10
+697,PPAP,INE095I01015,PPAP Automotive Limited,11-Jan-08,10
+698,MANAKSIA,INE015D01022,Manaksia Limited,8-Jan-08,2
+699,BGRENERGY,INE661I01014,BGR Energy Systems Limited,3-Jan-08,10
+700,BURNPUR,INE817H01014,Burnpur Cement Limited,3-Jan-08,10
+701,BRIGADE,INE791I01019,Brigade Enterprises Limited,31-Dec-07,10
+702,ECLERX,INE738I01010,eClerx Services Limited,31-Dec-07,10
+703,TRIL,INE763I01026,Transformers And Rectifiers (India) Limited,28-Dec-07,1
+704,KALYANIFRG,INE314G01014,Kalyani Forge Limited,20-Dec-07,10
+705,MADHAV,INE925C01016,Madhav Marbles and Granites Limited,20-Dec-07,10
+706,HITECHCORP,INE120D01012,Hitech Corporation Limited,20-Dec-07,10
+707,JYOTHYLAB,INE668F01031,Jyothy Labs Limited,19-Dec-07,1
+708,COLPAL,INE259A01022,Colgate Palmolive (India) Limited,17-Dec-07,1
+709,KAUSHALYA,INE234I01010,Kaushalya Infrastructure Development Corporation Limited,14-Dec-07,10
+710,KOLTEPATIL,INE094I01018,Kolte - Patil Developers Limited,13-Dec-07,10
+711,RGL,INE722H01016,Renaissance Global Limited,12-Dec-07,10
+712,EDELWEISS,INE532F01054,Edelweiss Financial Services Limited,12-Dec-07,1
+713,ADANIPORTS,INE742F01042,Adani Ports and Special Economic Zone Limited,27-Nov-07,2
+714,ALKYLAMINE,INE150B01021,Alkyl Amines Chemicals Limited,26-Nov-07,5
+715,RMCL,INE172H01014,Radha Madhav Corporation Limited,26-Nov-07,10
+716,JMCPROJECT,INE890A01024,JMC Projects (India)  Limited,26-Nov-07,2
+717,BVCL,INE139I01011,Barak Valley Cements Limited,23-Nov-07,10
+718,RELIGARE,INE621H01010,Religare Enterprises Limited,21-Nov-07,10
+719,SABTN,INE416A01036,Sri Adhikari Brothers Television Network Limited,16-Nov-07,10
+720,BAJAJELEC,INE193E01025,Bajaj Electricals Limited,2-Nov-07,2
+721,ENERGYDEV,INE306C01019,Energy Development Company Limited,2-Nov-07,10
+722,DELTACORP,INE124G01033,Delta Corp Limited,2-Nov-07,1
+723,CERA,INE739E01017,Cera Sanitaryware Limited,2-Nov-07,5
+724,MAANALU,INE215I01019,Maan Aluminium Limited,22-Oct-07,10
+725,MANGCHEFER,INE558B01017,Mangalore Chemicals & Fertilizers Limited,22-Oct-07,10
+726,POWERGRID,INE752E01010,Power Grid Corporation of India Limited,5-Oct-07,10
+727,CENTUM,INE320B01020,Centum Electronics Limited,5-Oct-07,10
+728,KSCL,INE455I01029,Kaveri Seed Company Limited,4-Oct-07,2
+729,MAGNUM,INE387I01016,Magnum Ventures Limited,20-Sep-07,10
+730,NAGREEKCAP,INE245I01016,Nagreeka Capital & Infrastructure Limited,18-Sep-07,5
+731,INDOWIND,INE227G01018,Indowind Energy Limited,14-Sep-07,10
+732,MOTILALOFS,INE338I01027,Motilal Oswal Financial Services Limited,11-Sep-07,1
+733,PURVA,INE323I01011,Puravankara Limited,30-Aug-07,5
+734,MAHINDCIE,INE536H01010,Mahindra CIE Automotive Limited,30-Aug-07,10
+735,KPRMILL,INE930H01023,K.P.R. Mill Limited,28-Aug-07,5
+736,SRIPIPES,INE943C01027,Srikalahasthi Pipes Limited,28-Aug-07,10
+737,ISMTLTD,INE732F01019,ISMT Limited,28-Aug-07,5
+738,TAKE,INE142I01023,Take Solutions Limited,27-Aug-07,1
+739,ASIANTILES,INE022I01019,Asian Granito India Limited,23-Aug-07,10
+740,VICEROY,INE048C01017,Viceroy Hotels Limited,21-Aug-07,10
+741,SELMCL,INE105I01012,SEL Manufacturing Company Limited,21-Aug-07,10
+742,CENTRALBK,INE483A01010,Central Bank of India,21-Aug-07,10
+743,ELECTHERM,INE822G01016,Electrotherm (India) Limited,20-Aug-07,10
+744,OMAXE,INE800H01010,Omaxe Limited,9-Aug-07,10
+745,ALPA,INE385I01010,Alpa Laboratories Limited,6-Aug-07,10
+746,VIPCLOTHNG,INE450G01024,VIP Clothing Limited,6-Aug-07,2
+747,DECCANCE,INE583C01021,Deccan Cements Limited,2-Aug-07,5
+748,WSI,INE100D01014,W S Industries (I) Limited,1-Aug-07,10
+749,ALCHEM,INE964B01033,Alchemist Limited,31-Jul-07,10
+750,ADSL,INE102I01027,Allied Digital Services Limited,25-Jul-07,5
+751,HDIL,INE191I01012,Housing Development and Infrastructure Limited,24-Jul-07,10
+752,MEGASOFT,INE933B01012,Megasoft Limited,19-Jul-07,10
+753,SPARC,INE232I01014,Sun Pharma Advanced Research Company Limited,18-Jul-07,1
+754,CELESTIAL,INE221I01017,Celestial Biolabs Limited,17-Jul-07,10
+755,TARMAT,INE924H01018,Tarmat Limited,9-Jul-07,10
+756,DLF,INE271C01023,DLF Limited,5-Jul-07,2
+757,V2RETAIL,INE945H01013,V2 Retail Limited,4-Jul-07,10
+758,MEGH,INE974H01013,Meghmani Organics Limited,28-Jun-07,1
+759,NELCAST,INE189I01024,Nelcast Limited,27-Jun-07,2
+760,ADVANIHOTR,INE199C01026,Advani Hotels & Resorts (India) Limited,25-Jun-07,2
+761,HGS,INE170I01016,Hinduja Global Solutions Limited,19-Jun-07,10
+762,NAGREEKEXP,INE123B01028,Nagreeka Exports Limited,18-Jun-07,5
+763,TIMETECHNO,INE508G01029,Time Technoplast Limited,13-Jun-07,1
+764,GOACARBON,INE426D01013,Goa Carbon Limited,5-Jun-07,10
+765,GUJAPOLLO,INE826C01016,Gujarat Apollo Industries Limited,4-Jun-07,10
+766,NAVINFLUOR,INE048G01026,Navin Fluorine International Limited,1-Jun-07,2
+767,KMSUGAR,INE157H01023,K.M.Sugar Mills Limited,31-May-07,2
+768,INSECTICID,INE070I01018,Insecticides (India) Limited,30-May-07,10
+769,MIC,INE287C01029,MIC Electronics Limited,30-May-07,2
+770,MCDHOLDING,INE836H01014,McDowell Holdings Limited,30-May-07,10
+771,HILTON,INE788H01017,Hilton Metal Forging Limited,24-May-07,10
+772,TGBHOTELS,INE797H01018,TGB Banquets And Hotels Limited,17-May-07,10
+773,TGBHOTELS,INE797H01018,TGB Banquets And Hotels Limited,17-May-07,10
+774,WEBELSOLAR,INE855C01015,Websol Energy System Limited,15-May-07,10
+775,ALPHAGEO,INE137C01018,Alphageo (India) Limited,11-May-07,10
+776,FORTIS,INE061F01013,Fortis Healthcare Limited,9-May-07,10
+777,SRHHYPOLTD,INE917H01012,Sree Rayalaseema Hi-Strength Hypo Limited,8-May-07,10
+778,GLOBOFFS,INE446C01013,Global Offshore Services Limited,3-May-07,10
+779,KGL,INE299C01024,Karuturi Global Limited,3-May-07,1
+780,BFUTILITIE,INE243D01012,BF Utilities Limited,3-May-07,5
+781,ZENITHBIR,INE318D01020,Zenith Birla (India) Limited,30-Apr-07,10
+782,AROGRANITE,INE210C01013,Aro Granite Industries Limited,24-Apr-07,10
+783,HINDUJAVEN,INE353A01023,Hinduja Ventures Limited,24-Apr-07,10
+784,PHOENIXLTD,INE211B01039,The Phoenix Mills Limited,23-Apr-07,2
+785,DISHTV,INE836F01026,Dish TV India Limited,18-Apr-07,1
+786,ICRA,INE725G01011,ICRA Limited,13-Apr-07,10
+787,BANSWRAS,INE629D01012,Banswara Syntex Limited,11-Apr-07,10
+788,BALAMINES,INE050E01027,Balaji Amines Limited,5-Apr-07,2
+789,GARFIBRES,INE276A01018,Garware Technical Fibres Limited,3-Apr-07,10
+790,NCLIND,INE732C01016,NCL Industries Limited,3-Apr-07,10
+791,JMTAUTOLTD,INE988E01036,JMT Auto Limited,2-Apr-07,1
+792,THEMISMED,INE083B01016,Themis Medicare Limited,2-Apr-07,10
+793,NAHARPOLY,INE308A01027,Nahar Poly Films Limited,23-Mar-07,5
+794,NAHARSPING,INE290A01027,Nahar Spinning Mills Limited,23-Mar-07,5
+795,IBREALEST,INE069I01010,Indiabulls Real Estate Limited,23-Mar-07,2
+796,ASTRAL,INE006I01046,Astral Poly Technik Limited,20-Mar-07,1
+797,JKTYRE,INE573A01042,JK Tyre & Industries Limited,19-Mar-07,2
+798,AMDIND,INE005I01014,AMD Industries Limited,19-Mar-07,10
+799,LAOPALA,INE059D01020,La Opala RG Limited,16-Mar-07,2
+800,PAGEIND,INE761H01022,Page Industries Limited,16-Mar-07,10
+801,RAJTV,INE952H01027,Raj Television Network Limited,16-Mar-07,5
+802,IDEA,INE669E01016,Vodafone Idea Limited,9-Mar-07,10
+803,PUNJABCHEM,INE277B01014,Punjab Chemicals & Crop Protection Limited,8-Mar-07,10
+804,UNIPLY,INE950G01023,Uniply Industries Limited,8-Mar-07,2
+805,MINDTREE,INE018I01017,MindTree Limited,7-Mar-07,10
+806,ORIENTALTL,INE998H01012,Oriental Trimex Limited,7-Mar-07,10
+807,GANESHHOUC,INE460C01014,Ganesh Housing Corporation Limited,2-Mar-07,10
+808,HSCL,INE019C01026,Himadri Speciality Chemical Limited,2-Mar-07,1
+809,INDIANB,INE562A01011,Indian Bank,1-Mar-07,10
+810,SMSPHARMA,INE812G01025,SMS Pharmaceuticals Limited,28-Feb-07,1
+811,TFL,INE804H01012,Transwarranty Finance Limited,26-Feb-07,10
+812,PFC,INE134E01011,Power Finance Corporation Limited,23-Feb-07,10
+813,TTL,INE592B01016,T T Limited,22-Feb-07,10
+814,FSL,INE684F01012,Firstsource Solutions Limited,22-Feb-07,10
+815,PGIL,INE940H01014,Pearl Global Industries Limited,15-Feb-07,10
+816,REDINGTON,INE891D01026,Redington (India) Limited,15-Feb-07,2
+817,ORIENTBELL,INE607D01018,Orient Bell Limited,14-Feb-07,10
+818,TVSSRICHAK,INE421C01016,TVS Srichakra Limited,13-Feb-07,10
+819,TIIL,INE545H01011,Technocraft Industries (India) Limited,12-Feb-07,10
+820,TV18BRDCST,INE886H01027,TV18 Broadcast Limited,8-Feb-07,2
+821,HUBTOWN,INE703H01016,Hubtown Limited,7-Feb-07,10
+822,CTE,INE627H01017,Cambridge Technology Enterprises Limited,7-Feb-07,10
+823,TIMKEN,INE325A01013,Timken India Limited,6-Feb-07,10
+824,IZMO,INE848A01014,IZMO Limited,5-Feb-07,10
+825,PITTIENG,INE450D01021,Pitti Engineering Limited,2-Feb-07,5
+826,MINDAIND,INE405E01023,Minda Industries Limited,2-Feb-07,2
+827,NETWORK18,INE870H01013,Network18 Media & Investments Limited,2-Feb-07,5
+828,AUTOIND,INE718H01014,Autoline Industries Limited,31-Jan-07,10
+829,GANDHITUBE,INE524B01027,Gandhi Special Tubes Limited,31-Jan-07,5
+830,IGPL,INE204A01010,IG Petrochemicals Limited,29-Jan-07,10
+831,PTL,INE034D01031,PTL Enterprises Limited,29-Jan-07,2
+832,WANBURY,INE107F01022,Wanbury Limited,29-Jan-07,10
+833,SAGCEM,INE229C01013,Sagar Cements Limited,29-Jan-07,10
+834,SIYSIL,INE076B01028,Siyaram Silk Mills Limited,29-Jan-07,2
+835,SANGHVIMOV,INE989A01024,Sanghvi Movers Limited,24-Jan-07,2
+836,SARLAPOLY,INE453D01025,Sarla Performance Fibers Limited,19-Jan-07,1
+837,TIDEWATER,INE484C01022,Tide Water Oil Company (India) Limited,16-Jan-07,5
+838,LUMAXTECH,INE872H01027,Lumax Auto Technologies Limited,16-Jan-07,2
+839,AVTNPL,INE488D01021,AVT Natural Products Limited,10-Jan-07,1
+840,SITINET,INE965H01011,Siti Networks Limited,10-Jan-07,1
+841,ZEEMEDIA,INE966H01019,Zee Media Corporation Limited,10-Jan-07,1
+842,TANLA,INE483C01032,Tanla Solutions Limited,5-Jan-07,1
+843,HBLPOWER,INE292B01021,HBL Power Systems Limited,4-Jan-07,1
+844,PARACABLES,INE074B01023,Paramount Communications Limited,3-Jan-07,2
+845,KESARENT,INE133B01019,Kesar Enterprises Limited,2-Jan-07,10
+846,PRAENG,INE505C01016,Prajay Engineers Syndicate Limited,2-Jan-07,10
+847,PLASTIBLEN,INE083C01022,Plastiblends India Limited,28-Dec-06,5
+848,NFL,INE870D01012,National Fertilizers Limited,28-Dec-06,10
+849,XLENERGY,INE183H01011,XL Energy Limited,28-Dec-06,10
+850,SATHAISPAT,INE176C01016,Sathavahana Ispat Limited,27-Dec-06,10
+851,CREST,INE559D01011,Crest Ventures Limited,27-Dec-06,10
+852,ARIHANT,INE413D01011,Arihant Foundations & Housing Limited,26-Dec-06,10
+853,HIRECT,INE835D01023,Hind Rectifiers Limited,26-Dec-06,2
+854,BANCOINDIA,INE213C01025,Banco Products (I) Limited,22-Dec-06,2
+855,JINDRILL,INE742C01031,Jindal Drilling And Industries Limited,22-Dec-06,5
+856,RUCHIRA,INE803H01014,Ruchira Papers Limited,20-Dec-06,10
+857,SPENTEX,INE376C01020,Spentex Industries Limited,20-Dec-06,10
+858,SOBHA,INE671H01015,Sobha Limited,20-Dec-06,10
+859,VENUSREM,INE411B01019,Venus Remedies Limited,20-Dec-06,10
+860,MMFL,INE227C01017,MM Forgings Limited,20-Dec-06,10
+861,DONEAR,INE668D01028,Donear Industries Limited,20-Dec-06,2
+862,DAAWAT,INE818H01020,LT Foods Limited,18-Dec-06,1
+863,SUTLEJTEX,INE645H01027,Sutlej Textiles and Industries Limited,14-Dec-06,1
+864,MANALIPETC,INE201A01024,Manali Petrochemicals Limited,6-Dec-06,5
+865,PARSVNATH,INE561H01026,Parsvnath Developers Limited,30-Nov-06,5
+866,TORNTPOWER,INE813H01021,Torrent Power Limited,28-Nov-06,10
+867,GESHIP,INE017A01032,The Great Eastern Shipping Company Limited,27-Nov-06,10
+868,SHIVAMAUTO,INE637H01024,Shivam Autotech Limited,21-Nov-06,2
+869,NAUKRI,INE663F01024,Info Edge (India) Limited,21-Nov-06,10
+870,BBL,INE464A01028,Bharat Bijlee Limited,21-Nov-06,10
+871,AARVEEDEN,INE273D01019,Aarvee Denims & Exports Limited,21-Nov-06,10
+872,HINDZINC,INE267A01025,Hindustan Zinc Limited,21-Nov-06,2
+873,GTLINFRA,INE221H01019,GTL Infrastructure Limited,9-Nov-06,10
+874,SHYAMTEL,INE635A01023,Shyam Telecom Limited,6-Nov-06,10
+875,INSPIRISYS,INE020G01017,Inspirisys Solutions Limited,30-Oct-06,10
+876,DCBBANK,INE503A01015,DCB Bank Limited,27-Oct-06,10
+877,GLOBALVECT,INE792H01019,Global Vectra Helicorp Limited,27-Oct-06,10
+878,JHS,INE544H01014,JHS Svendgaard Laboratories Limited,21-Oct-06,10
+879,FIEMIND,INE737H01014,Fiem Industries Limited,19-Oct-06,10
+880,JMFINANCIL,INE780C01023,JM Financial Limited,10-Oct-06,1
+881,GATI,INE152B01027,GATI Limited,10-Oct-06,2
+882,MBECL,INE748A01016,Mcnally Bharat Engineering Company Limited,6-Oct-06,10
+883,ANSALHSG,INE880B01015,Ansal Housing Limited,6-Oct-06,10
+884,MADHUCON,INE378D01032,Madhucon Projects Limited,5-Oct-06,1
+885,KSERASERA,INE216D01026,KSS Limited,5-Oct-06,1
+886,GEECEE,INE916G01016,GeeCee Ventures Limited,4-Oct-06,10
+887,TALBROAUTO,INE187D01011,Talbros Automotive Components Limited,29-Sep-06,10
+888,ASSAMCO,INE442A01024,Assam Company India Limited,29-Sep-06,1
+889,ELECON,INE205B01023,Elecon Engineering Company Limited,29-Sep-06,2
+890,ALICON,INE062D01024,Alicon Castalloy Limited,29-Sep-06,5
+891,HOVS,INE596H01014,HOV Services Limited,27-Sep-06,10
+892,ANANTRAJ,INE242C01024,Anant Raj Limited,27-Sep-06,2
+893,ACE,INE731H01025,Action Construction Equipment Limited,26-Sep-06,2
+894,SELAN,INE818A01017,Selan Exploration Technology Limited,26-Sep-06,10
+895,ATLANTA,INE285H01022,Atlanta  Limited,25-Sep-06,2
+896,VOLTAMP,INE540H01012,Voltamp Transformers Limited,20-Sep-06,10
+897,RAMANEWS,INE278B01020,Shree Rama Newsprint Limited,20-Sep-06,10
+898,MANUGRAPH,INE867A01022,Manugraph India Limited,14-Sep-06,2
+899,DYNAMATECH,INE221B01012,Dynamatic Technologies Limited,14-Sep-06,10
+900,GRINDWELL,INE536A01023,Grindwell Norton Limited,11-Sep-06,5
+901,TECHM,INE669C01036,Tech Mahindra Limited,28-Aug-06,5
+902,GMRINFRA,INE776C01039,GMR Infrastructure Limited,21-Aug-06,1
+903,WENDT,INE274C01019,Wendt (India) Limited,7-Aug-06,10
+904,EMAMILTD,INE548C01032,Emami Limited,3-Aug-06,1
+905,MUNJALAU,INE672B01032,Munjal Auto Industries Limited,19-Jul-06,2
+906,ALLCARGO,INE418H01029,Allcargo Logistics Limited,23-Jun-06,2
+907,PFOCUS,INE367G01038,Prime Focus Limited,20-Jun-06,1
+908,JKLAKSHMI,INE786A01032,JK Lakshmi Cement Limited,19-Jun-06,5
+909,GTNTEX,INE302H01017,GTN Textiles Limited,18-May-06,10
+910,PIONEEREMB,INE156C01018,Pioneer Embroideries Limited,16-May-06,10
+911,RATNAMANI,INE703B01027,Ratnamani Metals & Tubes Limited,9-May-06,2
+912,SWELECTES,INE409B01013,Swelect Energy Systems Limited,9-May-06,10
+913,KAMDHENU,INE390H01012,Kamdhenu Limited,9-May-06,10
+914,BALPHARMA,INE083D01012,Bal Pharma Limited,8-May-06,10
+915,LOKESHMACH,INE397H01017,Lokesh Machines Limited,5-May-06,10
+916,EMKAY,INE296H01011,Emkay Global Financial Services Limited,28-Apr-06,10
+917,RSYSTEMS,INE411H01032,R Systems International Limited,26-Apr-06,1
+918,GPIL,INE177H01013,Godawari Power And Ispat limited,25-Apr-06,10
+919,SUNTV,INE424H01027,Sun TV Network Limited,24-Apr-06,5
+920,ZICOM,INE871B01014,Zicom Electronic Security Systems Limited,18-Apr-06,10
+921,ROHITFERRO,INE248H01012,Rohit Ferro-Tech Limited,13-Apr-06,10
+922,KKCL,INE401H01017,Kewal Kiran Clothing Limited,13-Apr-06,10
+923,UTTAMSUGAR,INE786F01031,Uttam Sugar Mills Limited,10-Apr-06,10
+924,SGL,INE353H01010,STL Global Limited,10-Apr-06,10
+925,MALUPAPER,INE383H01017,Malu Paper Mills Limited,5-Apr-06,10
+926,GALLANTT,INE297H01019,Gallantt Metal Limited,4-Apr-06,10
+927,VAKRANGEE,INE051B01021,Vakrangee Limited,3-Apr-06,1
+928,SOLARINDS,INE343H01029,Solar Industries India Limited,3-Apr-06,2
+929,SANWARIA,INE890C01046,Sanwaria Consumer Limited,27-Mar-06,1
+930,KEI,INE878B01027,KEI Industries Limited,23-Mar-06,2
+931,CENTURYPLY,INE348B01021,Century Plyboards (India) Limited,23-Mar-06,1
+932,NITCO,INE858F01012,Nitco Limited,21-Mar-06,10
+933,BLKASHYAP,INE350H01032,B. L. Kashyap and Sons Limited,17-Mar-06,1
+934,M&MFIN,INE774D01024,Mahindra & Mahindra Financial Services Limited,17-Mar-06,2
+935,VISASTEEL,INE286H01012,Visa Steel Limited,17-Mar-06,10
+936,INDOTECH,INE332H01014,Indo Tech Transformers Limited,16-Mar-06,10
+937,JKCEMENT,INE823G01014,JK Cement Limited,14-Mar-06,10
+938,KEC,INE389H01022,KEC International Limited,10-Mar-06,2
+939,SAKUMA,INE190H01024,Sakuma Exports Limited,8-Mar-06,1
+940,RCOM,INE330H01018,Reliance Communications Limited,6-Mar-06,5
+941,SADBHAV,INE226H01026,Sadbhav Engineering Limited,1-Mar-06,1
+942,GVKPIL,INE251H01024,GVK Power & Infrastructure Limited,27-Feb-06,1
+943,INOXLEISUR,INE312H01016,INOX Leisure Limited,23-Feb-06,10
+944,JAGRAN,INE199G01027,Jagran Prakashan Limited,22-Feb-06,2
+945,GSPL,INE246F01010,Gujarat State Petronet Limited,16-Feb-06,10
+946,ENIL,INE265F01028,Entertainment Network (India) Limited,15-Feb-06,10
+947,ROHLTD,INE283H01019,Royal Orchid Hotels Limited,6-Feb-06,10
+948,STERTOOLS,INE334A01023,Sterling Tools Limited,2-Feb-06,2
+949,NITINSPIN,INE229H01012,Nitin Spinners Limited,2-Feb-06,10
+950,TINPLATE,INE422C01014,The Tinplate Company of India Limited,27-Jan-06,10
+951,BALKRISIND,INE787D01026,Balkrishna Industries Limited,27-Jan-06,2
+952,ANSALAPI,INE436A01026,Ansal Properties & Infrastructure Limited,27-Jan-06,5
+953,BARTRONICS,INE855F01034,Bartronics India Limited,12-Jan-06,10
+954,CELEBRITY,INE185H01016,Celebrity Fashions Limited,12-Jan-06,10
+955,PVR,INE191H01014,PVR Limited,4-Jan-06,10
+956,REPRO,INE461B01014,Repro India Limited,22-Dec-05,10
+957,KERNEX,INE202H01019,Kernex Microsystems (India) Limited,20-Dec-05,10
+958,EMCO,INE078A01026,Emco Limited,15-Dec-05,2
+959,EKC,INE184H01027,Everest Kanto Cylinder Limited,15-Dec-05,2
+960,NAHARINDUS,INE289A01011,Nahar Industrial Enterprises Limited,15-Dec-05,10
+961,ORIENTABRA,INE569C01020,Orient Abrasives Limited,15-Dec-05,1
+962,VIMTALABS,INE579C01029,Vimta Labs Limited,15-Dec-05,2
+963,AIAENG,INE212H01026,AIA Engineering Limited,14-Dec-05,2
+964,TRIVENI,INE256C01024,Triveni Engineering & Industries Limited,13-Dec-05,1
+965,SORILINFRA,INE034H01016,SORIL Infra Resources Limited,6-Dec-05,10
+966,BRFL,INE589G01011,Bombay Rayon Fashions Limited,5-Dec-05,10
+967,BASML,INE186H01014,Bannari Amman Spinning Mills Limited,14-Nov-05,10
+968,RENUKA,INE087H01022,Shree Renuka Sugars Limited,31-Oct-05,1
+969,AURIONPRO,INE132H01018,Aurionpro Solutions Limited,25-Oct-05,10
+970,SUZLON,INE040H01021,Suzlon Energy Limited,19-Oct-05,2
+971,IMPAL,INE547E01014,India Motor Parts and Accessories Limited,7-Oct-05,10
+972,SUNFLAG,INE947A01014,Sunflag Iron And Steel Company Limited,29-Sep-05,10
+973,FCSSOFT,INE512B01022,FCS Software Solutions Limited,21-Sep-05,1
+974,RAJVIR,INE011H01014,Rajvir Industries Limited,20-Sep-05,10
+975,ICIL,INE483B01026,Indo Count Industries Limited,12-Sep-05,2
+976,SASKEN,INE231F01020,Sasken Technologies Limited,9-Sep-05,10
+977,HTMEDIA,INE501G01024,HT Media Limited,1-Sep-05,2
+978,RML,INE050H01012,Rane (Madras) Limited,30-Aug-05,10
+979,GOLDIAM,INE025B01017,Goldiam International Limited,29-Aug-05,10
+980,PRECOT,INE283A01014,Precot Meridian Limited,19-Aug-05,10
+981,VIVIMEDLAB,INE526G01021,Vivimed Labs Limited,17-Aug-05,2
+982,IDFC,INE043D01016,IDFC Limited,12-Aug-05,10
+983,REVATHI,INE617A01013,Revathi Equipment Limited,11-Aug-05,10
+984,MCLEODRUSS,INE942G01012,Mcleod Russel India Limited,29-Jul-05,5
+985,SPLIL,INE978G01016,SPL Industries Limited,26-Jul-05,10
+986,MSPL,INE752G01015,MSP Steel & Power Limited,18-Jul-05,10
+987,NECLIFE,INE023H01027,Nectar Lifesciences Limited,18-Jul-05,1
+988,SUBROS,INE287B01021,Subros Limited,13-Jul-05,2
+989,YESBANK,INE528G01027,Yes Bank Limited,12-Jul-05,2
+990,GENUSPOWER,INE955D01029,Genus Power Infrastructures Limited,8-Jul-05,1
+991,GEOJITFSL,INE007B01023,Geojit Financial Services Limited,1-Jul-05,1
+992,INDIAGLYCO,INE560A01015,India Glycols Limited,1-Jul-05,10
+993,VHL,INE701A01023,Vardhman Holdings Limited,30-Jun-05,10
+994,CASTEXTECH,INE068D01021,Castex Technologies Limited,27-Jun-05,2
+995,MANINDS,INE993A01026,Man Industries (India) Limited,24-Jun-05,5
+996,JSWHL,INE824G01012,JSW Holdings Limited,21-Jun-05,10
+997,MERCATOR,INE934B01028,Mercator Limited,20-Jun-05,1
+998,GRANULES,INE101D01020,Granules India Limited,20-Jun-05,1
+999,63MOONS,INE111B01023,63 moons technologies limited,20-Jun-05,2
+1000,PRIMESECU,INE032B01021,Prime Securities Limited,17-Jun-05,5
+1001,JKPAPER,INE789E01012,JK Paper Limited,16-Jun-05,10
+1002,SHAHALLOYS,INE640C01011,Shah Alloys Limited,16-Jun-05,10
+1003,SURYALAXMI,INE713B01026,Suryalakshmi Cotton Mills Limited,15-Jun-05,10
+1004,CYBERMEDIA,INE278G01037,Cyber Media (India) Limited,10-Jun-05,10
+1005,SSWL,INE802C01017,Steel Strips Wheels Limited,6-Jun-05,10
+1006,WELCORP,INE191B01025,Welspun Corp Limited,24-May-05,5
+1007,SHOPERSTOP,INE498B01024,Shoppers Stop Limited,23-May-05,5
+1008,MANGALAM,INE584F01014,Mangalam Drugs And Organics Limited,23-May-05,10
+1009,IIFL,INE530B01024,IIFL Finance Limited,17-May-05,2
+1010,SAKSOFT,INE667G01015,Saksoft Limited,9-May-05,10
+1011,ALLSEC,INE835G01018,Allsec Technologies Limited,9-May-05,10
+1012,GOKEX,INE887G01027,Gokaldas Exports Limited,27-Apr-05,5
+1013,EVEREADY,INE128A01029,Eveready Industries India Limited,27-Apr-05,5
+1014,3IINFOTECH,INE748C01020,3i Infotech Limited,22-Apr-05,10
+1015,GABRIEL,INE524A01029,Gabriel India Limited,20-Apr-05,1
+1016,JPPOWER,INE351F01018,Jaiprakash Power Ventures Limited,18-Apr-05,10
+1017,JINDALPHOT,INE796G01012,Jindal Photo Limited,7-Apr-05,10
+1018,SHRIRAMCIT,INE722A01011,Shriram City Union Finance Limited,4-Apr-05,10
+1019,GDL,INE852F01015,Gateway Distriparks Limited,31-Mar-05,10
+1020,CONSOFINVT,INE025A01027,Consolidated Finvest & Holdings Limited,29-Mar-05,10
+1021,JSWSTEEL,INE019A01038,JSW Steel Limited,23-Mar-05,1
+1022,BEPL,INE922A01025,Bhansali Engineering Polymers Limited,21-Mar-05,1
+1023,XCHANGING,INE692G01013,Xchanging Solutions Limited,9-Mar-05,10
+1024,VIPIND,INE054A01027,VIP Industries Limited,2-Mar-05,2
+1025,PATELENG,INE244B01030,Patel Engineering Limited,24-Feb-05,1
+1026,RANASUG,INE625B01014,Rana Sugars Limited,24-Feb-05,10
+1027,SUPRAJIT,INE399C01030,Suprajit Engineering Limited,18-Feb-05,1
+1028,IMPEXFERRO,INE691G01015,Impex Ferro Tech Limited,3-Feb-05,10
+1029,INDOCO,INE873D01024,Indoco Remedies Limited,14-Jan-05,2
+1030,MRPL,INE103A01014,Mangalore Refinery and Petrochemicals Limited,7-Jan-05,10
+1031,PRESSMN,INE980A01023,Pressman Advertising Limited,5-Jan-05,2
+1032,DWARKESH,INE366A01041,Dwarikesh Sugar Industries Limited,31-Dec-04,1
+1033,JBMA,INE927D01028,JBM Auto Limited,17-Dec-04,5
+1034,KOTARISUG,INE419A01022,Kothari Sugars And Chemicals Limited,13-Dec-04,10
+1035,SALSTEEL,INE658G01014,S.A.L. Steel Limited,24-Nov-04,10
+1036,NTPC,INE733E01010,NTPC Limited,5-Nov-04,10
+1037,WELENT,INE625G01013,Welspun Enterprises Limited,4-Nov-04,10
+1038,ASTRAMICRO,INE386C01029,Astra Microwave Products Limited,1-Nov-04,2
+1039,GUFICBIO,INE742B01025,Gufic Biosciences Limited,19-Oct-04,1
+1040,INDSWFTLTD,INE788B01028,Ind-Swift Limited,18-Oct-04,2
+1041,PAPERPROD,INE275B01026,Huhtamaki PPL Limited,1-Oct-04,2
+1042,TITAN,INE280A01028,Titan Company Limited,24-Sep-04,1
+1043,GULFPETRO,INE586G01017,GP Petroleums Limited,24-Sep-04,5
+1044,GREAVESCOT,INE224A01026,Greaves Cotton Limited,9-Sep-04,2
+1045,TEXINFRA,INE435C01024,Texmaco Infrastructure & Holdings Limited,9-Sep-04,1
+1046,EICHERMOT,INE066A01013,Eicher Motors Limited,7-Sep-04,10
+1047,NIITTECH,INE591G01017,NIIT Technologies Limited,30-Aug-04,10
+1048,TCS,INE467B01029,Tata Consultancy Services Limited,25-Aug-04,1
+1049,MAHSEAMLES,INE271B01025,Maharashtra Seamless Limited,25-Aug-04,5
+1050,ULTRACEMCO,INE481G01011,UltraTech Cement Limited,24-Aug-04,10
+1051,NIITLTD,INE161A01038,NIIT Limited,16-Aug-04,2
+1052,3MINDIA,INE470A01017,3M India Limited,13-Aug-04,10
+1053,CENTEXT,INE281A01026,Century Extrusions Limited,20-Jul-04,1
+1054,APARINDS,INE372A01015,Apar Industries Limited,12-Jul-04,10
+1055,SUPERSPIN,INE662A01027,Super Spinning Mills Limited,8-Jul-04,1
+1056,PGHH,INE179A01014,Procter & Gamble Hygiene and Health Care Limited,7-Jul-04,10
+1057,LT,INE018A01030,Larsen & Toubro Limited,23-Jun-04,2
+1058,EXCELINDUS,INE369A01029,Excel Industries Limited,16-Jun-04,5
+1059,JPASSOCIAT,INE455F01025,Jaiprakash Associates Limited,14-Jun-04,2
+1060,TRENT,INE849A01020,Trent Limited,7-Jun-04,1
+1061,CCL,INE421D01022,CCL Products (India) Limited,7-Jun-04,2
+1062,MPHASIS,INE356A01018,MphasiS Limited,4-Jun-04,10
+1063,KAJARIACER,INE217B01036,Kajaria Ceramics Limited,1-Jun-04,1
+1064,MURUDCERA,INE692B01014,Murudeshwar Ceramics Limited,28-May-04,10
+1065,MIRCELECTR,INE831A01028,MIRC Electronics Limited,24-May-04,1
+1066,NDTV,INE155G01029,New Delhi Television Limited,19-May-04,4
+1067,IPAPPM,INE435A01028,International Paper APPM Limited,13-May-04,10
+1068,DATAMATICS,INE365B01017,Datamatics Global Services Limited,7-May-04,5
+1069,RKFORGE,INE399G01015,Ramkrishna Forgings Limited,5-May-04,10
+1070,MAGMA,INE511C01022,Magma Fincorp Limited,27-Apr-04,2
+1071,XPROINDIA,INE445C01015,Xpro India Limited,27-Apr-04,10
+1072,MAHABANK,INE457A01014,Bank of Maharashtra,12-Apr-04,10
+1073,PTC,INE877F01012,PTC India Limited,7-Apr-04,10
+1074,BIOCON,INE376G01013,Biocon Limited,7-Apr-04,5
+1075,VAIBHAVGBL,INE884A01019,Vaibhav Global Limited,5-Apr-04,10
+1076,DHANBANK,INE680A01011,Dhanlaxmi Bank Limited,1-Apr-04,10
+1077,PETRONET,INE347G01014,Petronet LNG Limited,26-Mar-04,10
+1078,SIMPLEXINF,INE059B01024,Simplex Infrastructures Limited,9-Mar-04,2
+1079,JBFIND,INE187A01017,JBF Industries Limited,25-Feb-04,10
+1080,MUKANDLTD,INE304A01026,Mukand Limited,23-Feb-04,10
+1081,SIL,INE173A01025,Standard Industries Limited,27-Jan-04,5
+1082,UPL,INE628A01036,UPL Limited,23-Jan-04,2
+1083,UNIENTER,INE037A01022,Uniphos Enterprises Limited,23-Jan-04,2
+1084,TVTODAY,INE038F01029,TV Today Network Limited,16-Jan-04,5
+1085,DREDGECORP,INE506A01018,Dredging Corporation of India Limited,15-Jan-04,10
+1086,JTEKTINDIA,INE643A01035,Jtekt India Limited,12-Jan-04,1
+1087,TVSELECT,INE236G01019,TVS Electronics Limited,26-Dec-03,10
+1088,IGL,INE203G01027,Indraprastha Gas Limited,26-Dec-03,2
+1089,JAIBALAJI,INE091G01018,Jai Balaji Industries Limited,9-Dec-03,10
+1090,WELSPUNIND,INE192B01031,Welspun India Limited,4-Dec-03,1
+1091,TATASTLBSL,INE824B01021,Tata Steel Bsl Limited,21-Nov-03,2
+1092,JSL,INE220G01021,Jindal Stainless Limited,17-Nov-03,2
+1093,NSIL,INE023A01030,Nalwa Sons Investments Limited,17-Nov-03,10
+1094,BHEL,INE257A01026,Bharat Heavy Electricals Limited,11-Nov-03,2
+1095,BEML,INE258A01016,BEML Limited,5-Nov-03,10
+1096,SUVEN,INE495B01038,Suven Life Sciences Limited,23-Oct-03,1
+1097,BAGFILMS,INE116D01028,B.A.G Films and Media Limited,17-Oct-03,2
+1098,NCC,INE868B01028,NCC Limited,14-Oct-03,2
+1099,IGARASHI,INE188B01013,Igarashi Motors India Limited,9-Oct-03,10
+1100,UCOBANK,INE691A01018,UCO Bank,9-Oct-03,10
+1101,VARDHACRLC,INE116G01013,Vardhman Acrylics Limited,30-Sep-03,10
+1102,HINDOILEXP,INE345A01011,Hindustan Oil Exploration Company Limited,23-Sep-03,10
+1103,AARTIDRUGS,INE767A01016,Aarti Drugs Limited,19-Sep-03,10
+1104,TATAELXSI,INE670A01012,Tata Elxsi Limited,17-Sep-03,10
+1105,ITI,INE248A01017,ITI Limited,15-Sep-03,10
+1106,KANSAINER,INE531A01024,Kansai Nerolac Paints Limited,15-Sep-03,1
+1107,AMARAJABAT,INE885A01032,Amara Raja Batteries Limited,5-Sep-03,1
+1108,VSTIND,INE710A01016,VST Industries Limited,5-Sep-03,10
+1109,SUBEX,INE754A01014,Subex Limited,5-Sep-03,10
+1110,SMLISUZU,INE294B01019,SML Isuzu Limited,29-Aug-03,10
+1111,OPTOCIRCUI,INE808B01016,Opto Circuits (India) Limited,25-Aug-03,10
+1112,PRSMJOHNSN,INE010A01011,Prism Johnson Limited,20-Aug-03,10
+1113,SRF,INE647A01010,SRF Limited,18-Aug-03,10
+1114,GHCL,INE539A01019,GHCL Limited,31-Jul-03,10
+1115,GILLETTE,INE322A01010,Gillette India Limited,30-Jul-03,10
+1116,VENKEYS,INE398A01010,Venky's (India) Limited,28-Jul-03,10
+1117,AGCNET,INE676A01019,AGC Networks Limited,22-Jul-03,10
+1118,HONAUT,INE671A01010,Honeywell Automation India Limited,18-Jul-03,10
+1119,ZENSARTECH,INE520A01027,Zensar Technologies Limited,9-Jul-03,2
+1120,MARUTI,INE585B01010,Maruti Suzuki India Limited,9-Jul-03,5
+1121,CENTURYTEX,INE055A01016,Century Textiles & Industries Limited,27-Jun-03,10
+1122,ELECTCAST,INE086A01029,Electrosteel Castings Limited,20-Jun-03,1
+1123,INDORAMA,INE156A01020,Indo Rama Synthetics (India) Limited,20-Jun-03,10
+1124,BATAINDIA,INE176A01028,Bata India Limited,18-Jun-03,5
+1125,RADICO,INE944F01028,Radico Khaitan Limited,18-Jun-03,2
+1126,EXIDEIND,INE302A01020,Exide Industries Limited,17-Jun-03,1
+1127,JUBILANT,INE700A01033,Jubilant Life Sciences Limited,16-Jun-03,1
+1128,GSKCONS,INE264A01014,GlaxoSmithKline Consumer Healthcare Limited,16-Jun-03,10
+1129,DRREDDY,INE089A01023,Dr. Reddy's Laboratories Limited,30-May-03,5
+1130,AUTOAXLES,INE449A01011,Automotive Axles Limited,29-May-03,10
+1131,PSL,INE474B01017,PSL Limited,29-May-03,10
+1132,BANARISUG,INE459A01010,Bannari Amman Sugars Limited,28-May-03,10
+1133,NELCO,INE045B01015,NELCO Limited,28-May-03,10
+1134,TATAMETALI,INE056C01010,Tata Metaliks Limited,27-May-03,10
+1135,SANOFI,INE058A01010,Sanofi India Limited,19-May-03,10
+1136,TIRUMALCHM,INE338A01024,Thirumalai Chemicals Limited,14-May-03,1
+1137,BOSCHLTD,INE323A01026,Bosch Limited,12-May-03,10
+1138,VARDMNPOLY,INE835A01011,Vardhman Polytex Limited,12-May-03,10
+1139,RICOAUTO,INE209B01025,Rico Auto Industries Limited,12-May-03,1
+1140,MUNJALSHOW,INE577A01027,Munjal Showa Limited,12-May-03,2
+1141,FOSECOIND,INE519A01011,Foseco India Limited,5-May-03,10
+1142,JINDALSAW,INE324A01024,Jindal Saw Limited,29-Apr-03,2
+1143,JBCHEPHARM,INE572A01028,JB Chemicals & Pharmaceuticals Limited,29-Apr-03,2
+1144,HEROMOTOCO,INE158A01026,Hero MotoCorp Limited,11-Apr-03,2
+1145,POLYPLEX,INE633B01018,Polyplex Corporation Limited,11-Apr-03,10
+1146,BHARATFORG,INE465A01025,Bharat Forge Limited,4-Apr-03,2
+1147,STCINDIA,INE655A01013,The State Trading Corporation of India Limited,1-Apr-03,10
+1148,HCC,INE549A01026,Hindustan Construction Company Limited,1-Apr-03,1
+1149,HONDAPOWER,INE634A01018,Honda Siel Power Products Limited,1-Apr-03,10
+1150,GARDENSILK,INE526A01016,Garden Silk Mills Limited,1-Apr-03,10
+1151,BAJFINANCE,INE296A01024,Bajaj Finance Limited,1-Apr-03,2
+1152,DIVISLAB,INE361B01024,Divi's Laboratories Limited,12-Mar-03,2
+1153,RADAAN,INE874F01027,Radaan Mediaworks India Limited,27-Feb-03,2
+1154,GODREJIND,INE233A01035,Godrej Industries Limited,25-Feb-03,1
+1155,TATASTLLP,INE674A01014,Tata Steel Long Products Limited,24-Feb-03,10
+1156,OMAXAUTO,INE090B01011,Omax Autos Limited,20-Feb-03,10
+1157,GRAPHITE,INE371A01025,Graphite India Limited,7-Feb-03,2
+1158,TNTELE,INE141D01018,Tamilnadu Telecommunication Limited,4-Feb-03,10
+1159,GENESYS,INE727B01026,Genesys International Corporation Limited,23-Jan-03,5
+1160,DEEPAKFERT,INE501A01019,Deepak Fertilizers and Petrochemicals Corporation Limited,17-Jan-03,10
+1161,VTL,INE825A01012,Vardhman Textiles Limited,14-Jan-03,10
+1162,RUCHISOYA,INE619A01027,Ruchi Soya Industries Limited,2-Jan-03,2
+1163,CANBK,INE476A01014,Canara Bank,23-Dec-02,10
+1164,NUCLEUS,INE096B01018,Nucleus Software Exports Limited,19-Dec-02,10
+1165,BLUEDART,INE233B01017,Blue Dart Express Limited,12-Dec-02,10
+1166,NOIDATOLL,INE781B01015,Noida Toll Bridge Company Limited,6-Dec-02,10
+1167,ATFL,INE209A01019,Agro Tech Foods Limited,6-Dec-02,10
+1168,ALBK,INE428A01015,Allahabad Bank,29-Nov-02,10
+1169,SANDESH,INE583B01015,The Sandesh Limited,26-Nov-02,10
+1170,TORNTPHARM,INE685A01028,Torrent Pharmaceuticals Limited,25-Nov-02,5
+1171,VESUVIUS,INE386A01015,Vesuvius India Limited,4-Oct-02,10
+1172,DHFL,INE202B01012,Dewan Housing Finance Corporation Limited,1-Oct-02,10
+1173,APTECHT,INE266F01018,Aptech Limited,27-Sep-02,10
+1174,NATNLSTEEL,INE088B01015,National Steel And Agro Industries Limited,26-Sep-02,10
+1175,UNIONBANK,INE692A01016,Union Bank of India,24-Sep-02,10
+1176,OFSS,INE881D01027,Oracle Financial Services Software Limited,28-Jun-02,5
+1177,HEXAWARE,INE093A01033,Hexaware Technologies Limited,14-Jun-02,2
+1178,TIMESGTY,INE289C01025,Times Guaranty Limited,11-Jun-02,10
+1179,SURANAT&P,INE130B01031,Surana Telecom and Power Limited,22-May-02,1
+1180,PNB,INE160A01022,Punjab National Bank,24-Apr-02,2
+1181,PONNIERODE,INE838E01017,Ponni Sugars (Erode) Limited,16-Apr-02,10
+1182,OLECTRA,INE260D01016,Olectra Greentech Limited,20-Mar-02,4
+1183,ASAL,INE900C01027,Automotive Stampings and Assemblies Limited,12-Mar-02,10
+1184,BHARTIARTL,INE397D01024,Bharti Airtel Limited,15-Feb-02,5
+1185,ESSELPACK,INE255A01020,Essel Propack Limited,11-Feb-02,2
+1186,MARKSANS,INE750C01026,Marksans Pharma Limited,21-Jan-02,1
+1187,MPSLTD,INE943D01017,MPS Limited,21-Jan-02,10
+1188,JINDALPOLY,INE197D01010,Jindal Poly Films Limited,21-Jan-02,10
+1189,HITECHGEAR,INE127B01011,The Hi-Tech Gears Limited,21-Jan-02,10
+1190,TCI,INE688A01022,Transport Corporation of India Limited,21-Jan-02,2
+1191,KRBL,INE001B01026,KRBL Limited,21-Jan-02,1
+1192,FEL,INE623B01027,Future Enterprises Limited,5-Nov-01,2
+1193,MCDOWELL-N,INE854D01024,United Spirits Limited,27-Sep-01,2
+1194,LUPIN,INE326A01037,Lupin Limited,10-Sep-01,2
+1195,JISLJALEQS,INE175A01038,Jain Irrigation Systems Limited,13-Aug-01,2
+1196,AKZOINDIA,INE133A01011,Akzo Nobel India Limited,28-Jun-01,10
+1197,GODREJCP,INE102D01028,Godrej Consumer Products Limited,20-Jun-01,1
+1198,ASTRAZEN,INE203A01020,AstraZeneca Pharma India Limited,4-May-01,2
+1199,SMARTLINK,INE178C01020,Smartlink Holdings Limited,11-Apr-01,2
+1200,GOLDTECH,INE805A01014,Goldstone Technologies Limited,11-Apr-01,10
+1201,NEXTMEDIA,INE747B01016,Next Mediaworks Limited,4-Apr-01,10
+1202,ANDHRABANK,INE434A01013,Andhra Bank,4-Apr-01,10
+1203,SHIRPUR-G,INE196B01016,Shirpur Gold Refinery Limited,21-Mar-01,10
+1204,HAVELLS,INE176B01034,Havells India Limited,21-Mar-01,1
+1205,ONWARDTEC,INE229A01017,Onward Technologies Limited,7-Mar-01,10
+1206,TRIDENT,INE064C01014,Trident Limited,21-Feb-01,10
+1207,HIKAL,INE475B01022,Hikal Limited,14-Feb-01,2
+1208,KHANDSE,INE060B01014,Khandwala Securities Limited,7-Feb-01,10
+1209,UNICHEMLAB,INE351A01035,Unichem Laboratories Limited,7-Feb-01,2
+1210,BSELINFRA,INE395A01016,BSEL Infrastructure Realty Limited,7-Feb-01,10
+1211,WSTCSTPAPR,INE976A01021,West Coast Paper Mills Limited,17-Jan-01,2
+1212,AXISCADES,INE555B01013,AXISCADES Engineering Technologies Limited,21-Dec-00,5
+1213,CREATIVEYE,INE230B01021,Creative Eye Limited,20-Dec-00,5
+1214,QUINTEGRA,INE033B01011,Quintegra Solutions Limited,20-Dec-00,10
+1215,TAJGVK,INE586B01026,Taj GVK Hotels & Resorts Limited,20-Dec-00,2
+1216,GLAXO,INE159A01016,GlaxoSmithKline Pharmaceuticals Limited,15-Dec-00,10
+1217,KALPATPOWR,INE220B01022,Kalpataru Power Transmission Limited,15-Dec-00,2
+1218,PNC,INE392B01011,Pritish Nandy Communications Limited,11-Dec-00,10
+1219,STRTECH,INE089C01029,Sterlite Technologies Limited,8-Dec-00,2
+1220,IOB,INE565A01014,Indian Overseas Bank,7-Dec-00,10
+1221,SCHAEFFLER,INE513A01014,Schaeffler India Limited,29-Nov-00,10
+1222,BALAJITELE,INE794B01026,Balaji Telefilms Limited,22-Nov-00,2
+1223,TIPSINDLTD,INE716B01011,TIPS Industries Limited,10-Nov-00,10
+1224,MRO-TEK,INE398B01018,MRO-TEK Realty Limited,1-Nov-00,5
+1225,TTML,INE517B01013,Tata Teleservices (Maharashtra) Limited,20-Oct-00,10
+1226,GAEL,INE036B01022,Gujarat Ambuja Exports Limited,11-Oct-00,2
+1227,USHAMART,INE228A01035,Usha Martin Limited,11-Oct-00,1
+1228,PNBGILTS,INE859A01011,PNB Gilts Limited,18-Sep-00,10
+1229,MUKTAARTS,INE374B01019,Mukta Arts Limited,12-Sep-00,5
+1230,NLCINDIA,INE589A01014,NLC India Limited,23-Aug-00,10
+1231,AKSHOPTFBR,INE523B01011,Aksh Optifibre Limited,18-Aug-00,5
+1232,TVSMOTOR,INE494B01023,TVS Motor Company Limited,2-Aug-00,1
+1233,TFCILTD,INE305A01015,Tourism Finance Corporation of India Limited,26-Jul-00,10
+1234,KARURVYSYA,INE036D01028,Karur Vysya Bank Limited,26-Jul-00,2
+1235,AUROPHARMA,INE406A01037,Aurobindo Pharma Limited,19-Jul-00,1
+1236,BEL,INE263A01024,Bharat Electronics Limited,19-Jul-00,1
+1237,MUKANDENGG,INE022B01014,Mukand Engineers Limited,28-Jun-00,10
+1238,CALSOFT,INE526B01014,California Software Company Limited,28-Jun-00,10
+1239,LAKSHVILAS,INE694C01018,Lakshmi Vilas Bank Limited,21-Jun-00,10
+1240,BLUESTARCO,INE472A01039,Blue Star Limited,15-Jun-00,2
+1241,THOMASCOOK,INE332A01027,Thomas Cook  (India)  Limited,7-Jun-00,1
+1242,SUNDRMFAST,INE387A01021,Sundram Fasteners Limited,7-Jun-00,1
+1243,CHENNPETRO,INE178A01016,Chennai Petroleum Corporation Limited,7-Jun-00,10
+1244,BLBLIMITED,INE791A01024,BLB Limited,31-May-00,1
+1245,HSIL,INE415A01038,HSIL Limited,31-May-00,2
+1246,INDIACEM,INE383A01012,The India Cements Limited,31-May-00,10
+1247,CURATECH,INE117B01012,Cura Technologies Limited,30-May-00,10
+1248,AJANTPHARM,INE031B01049,Ajanta Pharma Limited,29-May-00,2
+1249,MFSL,INE180A01020,Max Financial Services Limited,17-May-00,2
+1250,KTKBANK,INE614B01018,The Karnataka Bank Limited,10-May-00,10
+1251,MAHLIFE,INE813A01018,Mahindra Lifespace Developers Limited,10-May-00,10
+1252,CINEVISTA,INE039B01026,Cinevista Limited,2-May-00,2
+1253,GEPIL,INE878A01011,GE Power India Limited,19-Apr-00,10
+1254,CADILAHC,INE010B01027,Cadila Healthcare Limited,18-Apr-00,1
+1255,RAMCOSYS,INE246B01019,Ramco Systems Limited,12-Apr-00,10
+1256,BIL,INE828A01016,Bhartiya International Limited,12-Apr-00,10
+1257,WHEELS,INE715A01015,Wheels India Limited,7-Apr-00,10
+1258,SHREERAMA,INE879A01019,Shree Rama Multi-Tech Limited,13-Mar-00,5
+1259,NRBBEARING,INE349A01021,NRB Bearing Limited,8-Mar-00,2
+1260,IVRCLINFRA,INE875A01025,IVRCL Limited,8-Mar-00,2
+1261,MELSTAR,INE817A01019,Melstar Information Technologies Limited,7-Mar-00,10
+1262,JAGSNPHARM,INE048B01027,Jagsonpal Pharmaceuticals Limited,1-Mar-00,5
+1263,WOCKPHARMA,INE049B01025,Wockhardt Limited,23-Feb-00,5
+1264,TATACOFFEE,INE493A01027,Tata Coffee Limited,16-Feb-00,1
+1265,HAVISHA,INE293B01029,Sri Havisha Hospitality and Infrastructure Limited,16-Feb-00,2
+1266,BLUECOAST,INE472B01011,Blue Coast Hotels Limited,16-Feb-00,10
+1267,RAJESHEXPO,INE343B01030,Rajesh Exports Limited,9-Feb-00,1
+1268,GLENMARK,INE935A01035,Glenmark Pharmaceuticals Limited,7-Feb-00,1
+1269,STAR,INE939A01011,Strides Pharma Science Limited,2-Feb-00,10
+1270,VISESHINFO,INE861A01058,Visesh Infotecnics Limited,14-Jan-00,1
+1271,HCLTECH,INE860A01027,HCL Technologies Limited,6-Jan-00,2
+1272,JCHAC,INE782A01015,Johnson Controls - Hitachi Air Conditioning India Limited,3-Jan-00,10
+1273,JINDALSTEL,INE749A01030,Jindal Steel & Power Limited,29-Dec-99,1
+1274,SYNDIBANK,INE667A01018,Syndicate Bank,22-Dec-99,10
+1275,TTKPRESTIG,INE690A01010,TTK Prestige Limited,22-Dec-99,10
+1276,ACCELYA,INE793A01012,Accelya Solutions India Limited,1-Dec-99,10
+1277,BSOFT,INE836A01035,BIRLASOFT LIMITED,24-Nov-99,2
+1278,BERGEPAINT,INE463A01038,Berger Paints (I) Limited,24-Nov-99,1
+1279,MOREPENLAB,INE083A01026,Morepen Laboratories Limited,24-Nov-99,2
+1280,TNPETRO,INE148A01019,Tamilnadu PetroProducts Limited,27-Oct-99,10
+1281,KOHINOOR,INE080B01012,Kohinoor Foods Limited,20-Oct-99,10
+1282,SUPPETRO,INE663A01017,Supreme Petrochem Limited,13-Oct-99,10
+1283,NIPPOBATRY,INE567A01010,Indo-National Limited,6-Oct-99,10
+1284,ALEMBICLTD,INE426A01027,Alembic Limited,22-Sep-99,2
+1285,IVC,INE050B01023,IL&FS Investment Managers Limited,15-Sep-99,2
+1286,UNITECH,INE694A01020,Unitech Limited,8-Sep-99,2
+1287,SONATSOFTW,INE269A01021,Sonata Software Limited,28-Jul-99,1
+1288,LINDEINDIA,INE473A01011,Linde India Limited,16-Jun-99,10
+1289,KOPRAN,INE082A01010,Kopran Limited,9-Jun-99,10
+1290,RSSOFTWARE,INE165B01029,R. S. Software (India) Limited,19-May-99,5
+1291,PFIZER,INE182A01018,Pfizer Limited,28-Apr-99,10
+1292,SICAL,INE075B01012,Sical Logistics Limited,28-Apr-99,10
+1293,DABUR,INE016A01026,Dabur India Limited,28-Apr-99,1
+1294,NATIONALUM,INE139A01034,National Aluminium Company Limited,28-Apr-99,5
+1295,MIRZAINT,INE771A01026,Mirza International Limited,28-Apr-99,2
+1296,INGERRAND,INE177A01018,Ingersoll Rand (India) Limited,15-Apr-99,10
+1297,RALLIS,INE613A01020,Rallis India Limited,1-Apr-99,1
+1298,TATACHEM,INE092A01019,Tata Chemicals Limited,1-Apr-99,10
+1299,MTNL,INE153A01019,Mahanagar Telephone Nigam Limited,17-Feb-99,10
+1300,ITDCEM,INE686A01026,ITD Cementation India Limited,10-Feb-99,1
+1301,CYBERTECH,INE214A01019,Cybertech Systems And Software Limited,27-Jan-99,10
+1302,SKFINDIA,INE640A01023,SKF India Limited,27-Jan-99,10
+1303,SOUTHBANK,INE683A01023,The South Indian Bank Limited,8-Dec-98,1
+1304,TATASTEEL,INE081A01012,Tata Steel Limited,18-Nov-98,10
+1305,TATAGLOBAL,INE192A01025,Tata Global Beverages Limited,18-Nov-98,1
+1306,AXISBANK,INE238A01034,Axis Bank Limited,16-Nov-98,2
+1307,SINTEX,INE429C01035,Sintex Industries Limited,5-Nov-98,1
+1308,BRITANNIA,INE216A01030,Britannia Industries Limited,5-Nov-98,1
+1309,CYIENT,INE136B01020,Cyient Limited,30-Sep-98,5
+1310,ZEEL,INE256A01028,Zee Entertainment Enterprises Limited,9-Sep-98,1
+1311,ARCHIES,INE731A01020,Archies Limited,2-Sep-98,2
+1312,ORIENTHOT,INE750A01020,Oriental Hotels Limited,27-Aug-98,1
+1313,CUB,INE491A01021,City Union Bank Limited,25-Aug-98,1
+1314,LICHSGFIN,INE115A01026,LIC Housing Finance Limited,29-Jul-98,2
+1315,J&KBANK,INE168A01041,The Jammu & Kashmir Bank Limited,22-Jul-98,1
+1316,TATAMOTORS,INE155A01022,Tata Motors Limited,22-Jul-98,2
+1317,TATAINVEST,INE672A01018,Tata Investment Corporation Limited,24-Jun-98,10
+1318,HINDPETRO,INE094A01015,Hindustan Petroleum Corporation Limited,17-Jun-98,10
+1319,KOTHARIPRO,INE823A01017,Kothari Products Limited,3-Jun-98,10
+1320,VEDL,INE205A01025,Vedanta Limited,13-May-98,1
+1321,ATUL,INE100A01010,Atul Limited,6-May-98,10
+1322,TRIGYN,INE948A01012,Trigyn Technologies Limited,9-Apr-98,10
+1323,ASAHIINDIA,INE439A01020,Asahi India Glass Limited,18-Mar-98,1
+1324,AMBUJACEM,INE079A01024,Ambuja Cements Limited,18-Feb-98,2
+1325,INDUSINDBK,INE095A01012,IndusInd Bank Limited,28-Jan-98,10
+1326,MAHAPEXLTD,INE843B01013,Maha Rashtra Apex Corporation Limited,21-Jan-98,10
+1327,RCF,INE027A01015,Rashtriya Chemicals and Fertilizers Limited,7-Jan-98,10
+1328,SUNDARMFIN,INE660A01013,Sundaram Finance Limited,7-Jan-98,10
+1329,ANTGRAPHIC,INE414B01021,Antarctica Limited,31-Dec-97,1
+1330,GMDCLTD,INE131A01031,Gujarat Mineral Development Corporation Limited,17-Dec-97,2
+1331,CORPBANK,INE112A01023,Corporation Bank,1-Dec-97,2
+1332,JAICORPLTD,INE070D01027,Jai Corp Limited,26-Nov-97,1
+1333,JAINSTUDIO,INE486B01011,Jain Studios Limited,19-Nov-97,10
+1334,RANEHOLDIN,INE384A01010,Rane Holdings Limited,24-Sep-97,10
+1335,ICICIBANK,INE090A01021,ICICI Bank Limited,17-Sep-97,2
+1336,ENGINERSIN,INE510A01028,Engineers India Limited,20-Aug-97,5
+1337,SCI,INE109A01011,Shipping Corporation Of India Limited,13-Aug-97,10
+1338,ADROITINFO,INE737B01033,Adroit Infotech Limited,13-Aug-97,10
+1339,GUJALKALI,INE186A01019,Gujarat Alkalies and Chemicals Limited,7-Aug-97,10
+1340,DENORA,INE244A01016,De Nora India Limited,7-Aug-97,10
+1341,FDC,INE258B01022,FDC Limited,7-Aug-97,1
+1342,SAREGAMA,INE979A01017,Saregama India Limited,30-Jul-97,10
+1343,MADRASFERT,INE414A01015,Madras Fertilizers Limited,25-Jul-97,10
+1344,INDSWFTLAB,INE915B01019,Ind-Swift Laboratories Limited,2-Jul-97,10
+1345,ORIENTBANK,INE141A01014,Oriental Bank of Commerce,2-Jul-97,10
+1346,KCPSUGIND,INE790B01024,KCP Sugar and Industries Corporation Limited,11-Jun-97,1
+1347,ADANIENT,INE423A01024,Adani Enterprises Limited,4-Jun-97,1
+1348,TCIFINANCE,INE911B01018,TCI Finance Limited,21-May-97,10
+1349,DCMFINSERV,INE891B01012,DCM Financial Services Limited,21-May-97,10
+1350,CONCOR,INE111A01025,Container Corporation of India Limited,7-May-97,5
+1351,INDNIPPON,INE092B01025,India Nippon Electricals Limited,7-May-97,5
+1352,BANKINDIA,INE084A01016,Bank of India,30-Apr-97,10
+1353,INDRAMEDCO,INE681B01017,Indraprastha Medical Corporation Limited,17-Apr-97,10
+1354,KCP,INE805C01028,KCP Limited,9-Apr-97,1
+1355,RAMCOCEM,INE331A01037,The Ramco Cements Limited,9-Apr-97,1
+1356,GAIL,INE129A01019,GAIL (India) Limited,2-Apr-97,10
+1357,SKMEGGPROD,INE411D01015,SKM Egg Products Export (India) Limited,14-Mar-97,10
+1358,BANKBARODA,INE028A01039,Bank of Baroda,19-Feb-97,2
+1359,HINDALCO,INE038A01020,Hindalco Industries Limited,8-Jan-97,1
+1360,INDIANCARD,INE061A01014,Indian Card Clothing Company Limited,8-Jan-97,10
+1361,HCL-INSYS,INE236A01020,HCL Infosystems Limited,1-Jan-97,2
+1362,SRTRANSFIN,INE721A01013,Shriram Transport Finance Company Limited,11-Dec-96,10
+1363,HERITGFOOD,INE978A01027,Heritage Foods Limited,27-Nov-96,5
+1364,ACC,INE012A01025,ACC Limited,20-Nov-96,10
+1365,RAMCOIND,INE614A01028,Ramco Industries Limited,6-Nov-96,1
+1366,SHREYANIND,INE231C01019,Shreyans Industries Limited,6-Nov-96,10
+1367,KOTHARIPET,INE720A01015,Kothari Petrochemicals Limited,2-Nov-96,10
+1368,HDFC,INE001A01036,Housing Development Finance Corporation Limited,23-Oct-96,2
+1369,RUCHINFRA,INE413B01023,Ruchi Infrastructure Limited,16-Oct-96,1
+1370,SKIL,INE429F01012,SKIL Infrastructure Limited,9-Oct-96,10
+1371,GUJRAFFIA,INE610B01024,Gujarat Raffia Industries Limited,9-Oct-96,10
+1372,MRF,INE883A01011,MRF Limited,18-Sep-96,10
+1373,WALCHANNAG,INE711A01022,Walchandnagar Industries Limited,18-Sep-96,2
+1374,BINDALAGRO,INE143A01010,Oswal Chemicals & Fertilizers Limited,28-Aug-96,10
+1375,VISAKAIND,INE392A01013,Visaka Industries Limited,28-Aug-96,10
+1376,MOTHERSUMI,INE775A01035,Motherson Sumi Systems Limited,14-Aug-96,1
+1377,SOMATEX,INE314C01013,Soma Textiles & Industries Limited,14-Aug-96,10
+1378,IOC,INE242A01010,Indian Oil Corporation Limited,24-Jul-96,10
+1379,GODFRYPHLP,INE260B01028,Godfrey Phillips India Limited,24-Jul-96,2
+1380,SUNDRMBRAK,INE073D01013,Sundaram Brake Linings Limited,17-Jul-96,10
+1381,SANGAMIND,INE495C01010,Sangam (India) Limited,17-Jul-96,10
+1382,SUBCAPCITY,INE845C01016,International Constructions Limited,10-Jul-96,10
+1383,ZENITHEXPO,INE058B01018,Zenith Exports Limited,10-Jul-96,10
+1384,INDHOTEL,INE053A01029,The Indian Hotels Company Limited,3-Jul-96,1
+1385,EASTSILK,INE962C01027,Eastern Silk Industries Limited,3-Jul-96,2
+1386,NORBTEAEXP,INE369C01017,Norben Tea & Exports Limited,26-Jun-96,10
+1387,KEYFINSERV,INE681C01015,Keynote Financial Services Limited,26-Jun-96,10
+1388,BIOFILCHEM,INE829A01014,Biofil Chemicals & Pharmaceuticals Limited,12-Jun-96,10
+1389,REGENCERAM,INE277C01012,Regency Ceramics Limited,5-Jun-96,10
+1390,SAMBHAAV,INE699B01027,Sambhaav Media Limited,5-Jun-96,1
+1391,KAMATHOTEL,INE967C01018,Kamat Hotels (I) Limited,29-May-96,10
+1392,SILINV,INE923A01015,SIL Investments Limited,22-May-96,10
+1393,DHARSUGAR,INE988C01014,Dharani Sugars & Chemicals Limited,22-May-96,10
+1394,CHOLAFIN,INE121A01024,Cholamandalam Investment and Finance Company Limited,15-May-96,2
+1395,HINDCOMPOS,INE310C01029,Hindustan Composites Limited,8-May-96,5
+1396,GICHSGFIN,INE289B01019,GIC Housing Finance Limited,8-May-96,10
+1397,MARICO,INE196A01026,Marico Limited,1-May-96,1
+1398,PGHL,INE199A01012,Procter & Gamble Health Limited,24-Apr-96,10
+1399,CUBEXTUB,INE144D01012,Cubex Tubings Limited,24-Apr-96,10
+1400,ALPSINDUS,INE093B01015,Alps Industries Limited,24-Apr-96,10
+1401,AUSOMENT,INE218C01016,Ausom Enterprise Limited,17-Apr-96,10
+1402,PANACEABIO,INE922B01023,Panacea Biotec Limited,17-Apr-96,1
+1403,JAYAGROGN,INE785A01026,Jayant Agro Organics Limited,17-Apr-96,5
+1404,EIMCOELECO,INE158B01016,Eimco Elecon (India) Limited,17-Apr-96,10
+1405,MOHOTAIND,INE313D01013,Mohota Industries Limited,10-Apr-96,10
+1406,ALOKTEXT,INE270A01011,Alok Industries Limited,10-Apr-96,10
+1407,IFBAGRO,INE076C01018,IFB Agro Industries Limited,3-Apr-96,10
+1408,CARBORUNIV,INE120A01034,Carborundum Universal Limited,3-Apr-96,1
+1409,BBTC,INE050A01025,Bombay Burmah Trading Corporation Limited,3-Apr-96,2
+1410,NBVENTURES,INE725A01022,Nava Bharat Ventures Limited,3-Apr-96,2
+1411,PREMIER,INE342A01018,Premier Limited,3-Apr-96,10
+1412,TATAPOWER,INE245A01021,Tata Power Company Limited,3-Apr-96,1
+1413,BHARATGEAR,INE561C01019,Bharat Gears Limited,3-Apr-96,10
+1414,AEGISCHEM,INE208C01025,Aegis Logistics Limited,3-Apr-96,1
+1415,HOTELRUGBY,INE275F01019,Hotel Rugby Limited,3-Apr-96,10
+1416,CORALFINAC,INE558D01021,Coral India Finance & Housing Limited,25-Mar-96,2
+1417,GREENPLY,INE461C01038,Greenply Industries Limited,6-Mar-96,1
+1418,SPMLINFRA,INE937A01023,SPML Infra Limited,14-Feb-96,2
+1419,TNPL,INE107A01015,Tamil Nadu Newsprint & Papers Limited,14-Feb-96,10
+1420,EUROTEXIND,INE022C01012,Eurotex Industries and Exports Limited,31-Jan-96,10
+1421,REMSONSIND,INE474C01015,Remsons Industries Limited,31-Jan-96,10
+1422,SHANTIGEAR,INE631A01022,Shanthi Gears Limited,17-Jan-96,1
+1423,DALMIASUG,INE495A01022,Dalmia Bharat Sugar and Industries Limited,17-Jan-96,2
+1424,NOCIL,INE163A01018,NOCIL Limited,17-Jan-96,10
+1425,INDLMETER,INE065B01013,IMP Powers Limited,10-Jan-96,10
+1426,SPIC,INE147A01011,Southern Petrochemicals Industries Corporation  Limited,10-Jan-96,10
+1427,APOLLOHOSP,INE437A01024,Apollo Hospitals Enterprise Limited,10-Jan-96,5
+1428,M&M,INE101A01026,Mahindra & Mahindra Limited,3-Jan-96,5
+1429,KREBSBIO,INE268B01013,Krebs Biochemicals and Industries Limited,3-Jan-96,10
+1430,MANGLMCEM,INE347A01017,Mangalam Cement Limited,3-Jan-96,10
+1431,JAYBARMARU,INE571B01028,Jay Bharat Maruti Limited,3-Jan-96,5
+1432,NATCOPHARM,INE987B01026,Natco Pharma Limited,27-Dec-95,2
+1433,PETRONENGG,INE742A01019,Petron Engineering Construction Limited,27-Dec-95,10
+1434,KOTAKBANK,INE237A01028,Kotak Mahindra Bank Limited,20-Dec-95,5
+1435,SREINFRA,INE872A01014,SREI Infrastructure Finance Limited,20-Dec-95,10
+1436,KHAITANLTD,INE731C01018,Khaitan (India) Limited,20-Dec-95,10
+1437,PREMIERPOL,INE309M01012,Premier Polyfilm Limited,13-Dec-95,5
+1438,KAKATCEM,INE437B01014,Kakatiya Cement Sugar & Industries Limited,13-Dec-95,10
+1439,STINDIA,INE090C01019,STI India Limited,6-Dec-95,10
+1440,BIRLACABLE,INE800A01015,Birla Cable Limited,6-Dec-95,10
+1441,SWARAJENG,INE277A01016,Swaraj Engines Limited,6-Dec-95,10
+1442,RELIANCE,INE002A01018,Reliance Industries Limited,29-Nov-95,10
+1443,RELCAPITAL,INE013A01015,Reliance Capital Limited,29-Nov-95,10
+1444,RIIL,INE046A01015,Reliance Industrial Infrastructure Limited,29-Nov-95,10
+1445,SOMANYCERA,INE355A01028,Somany Ceramics Limited,22-Nov-95,2
+1446,ELGIEQUIP,INE285A01027,Elgi Equipments Limited,22-Nov-95,1
+1447,WIPRO,INE075A01022,Wipro Limited,8-Nov-95,2
+1448,HDFCBANK,INE040A01034,HDFC Bank Limited,8-Nov-95,1
+1449,ANDHRSUGAR,INE715B01013,The Andhra Sugars Limited,1-Nov-95,10
+1450,ESABINDIA,INE284A01012,Esab India Limited,1-Nov-95,10
+1451,NILKAMAL,INE310A01015,Nilkamal Limited,1-Nov-95,10
+1452,ARENTERP,INE610C01014,Rajdarshan Industries Limited,18-Oct-95,10
+1453,RAYMOND,INE301A01014,Raymond Limited,18-Oct-95,10
+1454,DELTAMAGNT,INE393A01011,Delta Magnets Limited,18-Oct-95,10
+1455,PRAJIND,INE074A01025,Praj Industries Limited,11-Oct-95,2
+1456,TOKYOPLAST,INE932C01012,Tokyo Plast International Limited,11-Oct-95,10
+1457,PEARLPOLY,INE844A01013,Pearl Polymers Limited,11-Oct-95,10
+1458,BHARATRAS,INE838B01013,Bharat Rasayan Limited,11-Oct-95,10
+1459,TIL,INE806C01018,TIL Limited,27-Sep-95,10
+1460,LIBERTSHOE,INE557B01019,Liberty Shoes Limited,27-Sep-95,10
+1461,ZODIACLOTH,INE206B01013,Zodiac Clothing Company Limited,27-Sep-95,10
+1462,ASHAPURMIN,INE348A01023,Ashapura Minechem Limited,20-Sep-95,2
+1463,IDBI,INE008A01015,IDBI Bank Limited,20-Sep-95,10
+1464,UCALFUEL,INE139B01016,Ucal Fuel Systems Limited,13-Sep-95,10
+1465,IVP,INE043C01018,IVP Limited,13-Sep-95,10
+1466,BPCL,INE029A01011,Bharat Petroleum Corporation Limited,13-Sep-95,10
+1467,STARPAPER,INE733A01018,Star Paper Mills Limited,13-Sep-95,10
+1468,SAKHTISUG,INE623A01011,Sakthi Sugars Limited,6-Sep-95,10
+1469,PRECWIRE,INE372C01029,Precision Wires India Limited,6-Sep-95,5
+1470,SIEMENS,INE003A01024,Siemens Limited,6-Sep-95,2
+1471,KESORAMIND,INE087A01019,Kesoram Industries Limited,6-Sep-95,10
+1472,GSFC,INE026A01025,Gujarat State Fertilizers & Chemicals Limited,6-Sep-95,2
+1473,APCOTEXIND,INE116A01032,Apcotex Industries Limited,6-Sep-95,2
+1474,KABRAEXTRU,INE900B01029,Kabra Extrusion Technik Limited,6-Sep-95,5
+1475,LUMAXIND,INE162B01018,Lumax Industries Limited,6-Sep-95,10
+1476,INDIANHUME,INE323C01030,Indian Hume Pipe Company Limited,30-Aug-95,2
+1477,OILCOUNTUB,INE591A01010,Oil Country Tubular Limited,30-Aug-95,10
+1478,THERMAX,INE152A01029,Thermax Limited,30-Aug-95,2
+1479,DICIND,INE303A01010,DIC India Limited,30-Aug-95,10
+1480,UFLEX,INE516A01017,UFLEX Limited,23-Aug-95,10
+1481,GMBREW,INE075D01018,GM Breweries Limited,23-Aug-95,10
+1482,ITC,INE154A01025,ITC Limited,23-Aug-95,1
+1483,METALFORGE,INE425A01011,Metalyst Forgings Limited,23-Aug-95,10
+1484,GTNIND,INE537A01013,GTN Industries Limited,2-Aug-95,10
+1485,BSL,INE594B01012,BSL Limited,27-Jul-95,10
+1486,TAINWALCHM,INE123C01018,Tainwala Chemical and Plastic (I) Limited,27-Jul-95,10
+1487,MANGTIMBER,INE805B01012,Mangalam Timber Products Limited,27-Jul-95,10
+1488,ASHIMASYN,INE440A01010,Ashima Limited,27-Jul-95,10
+1489,ONGC,INE213A01029,Oil & Natural Gas Corporation Limited,19-Jul-95,5
+1490,ZODJRDMKJ,INE077B01018,Zodiac JRD- MKJ Limited,19-Jul-95,10
+1491,HOTELEELA,INE102A01024,Hotel Leela Venture Limited,19-Jul-95,2
+1492,SUPREMEIND,INE195A01028,Supreme Industries Limited,19-Jul-95,2
+1493,3PLAND,INE105C01023,3P Land Holdings Limited,19-Jul-95,2
+1494,NKIND,INE542C01019,NK Industries Limited,7-Jul-95,10
+1495,BANARBEADS,INE655B01011,Banaras Beads Limited,7-Jul-95,10
+1496,HINDUNILVR,INE030A01027,Hindustan Unilever Limited,6-Jul-95,1
+1497,BALMLAWRIE,INE164A01016,Balmer Lawrie & Company Limited,6-Jul-95,10
+1498,SAIL,INE114A01011,Steel Authority of India Limited,6-Jul-95,10
+1499,SOTL,INE035D01012,Savita Oil Technologies Limited,28-Jun-95,10
+1500,CRISIL,INE007A01025,CRISIL Limited,28-Jun-95,1
+1501,SEAMECLTD,INE497B01018,Seamec Limited,28-Jun-95,10
+1502,CHAMBLFERT,INE085A01013,Chambal Fertilizers & Chemicals Limited,14-Jun-95,10
+1503,BPL,INE110A01019,BPL Limited,14-Jun-95,10
+1504,CLNINDIA,INE492A01029,Clariant Chemicals (India) Limited,14-Jun-95,10
+1505,ASIANPAINT,INE021A01026,Asian Paints Limited,31-May-95,1
+1506,AUTOLITIND,INE448A01013,Autolite (India) Limited,31-May-95,10
+1507,APOLLOTYRE,INE438A01022,Apollo Tyres Limited,31-May-95,1
+1508,COROMANDEL,INE169A01031,Coromandel International Limited,31-May-95,1
+1509,DCW,INE500A01029,DCW Limited,25-May-95,2
+1510,COSMOFILMS,INE757A01017,Cosmo Films Limited,25-May-95,10
+1511,SUDARSCHEM,INE659A01023,Sudarshan Chemical Industries Limited,25-May-95,2
+1512,ASHOKLEY,INE208A01029,Ashok Leyland Limited,25-May-95,1
+1513,VLSFINANCE,INE709A01018,VLS Finance Limited,25-May-95,10
+1514,UTTAMSTL,INE699A01011,Uttam Galva Steels Limited,25-May-95,10
+1515,GFLLIMITED,INE538A01037,GFL Limited,25-May-95,1
+1516,BASF,INE373A01013,BASF India Limited,17-May-95,10
+1517,UNIVCABLES,INE279A01012,Universal Cables Limited,17-May-95,10
+1518,GNFC,INE113A01013,Gujarat Narmada Valley Fertilizers and Chemicals Limited,17-May-95,10
+1519,CENTENKA,INE485A01015,Century Enka Limited,10-May-95,10
+1520,GINNIFILA,INE424C01010,Ginni Filaments Limited,10-May-95,10
+1521,GRASIM,INE047A01021,Grasim Industries Limited,10-May-95,2
+1522,HEG,INE545A01016,HEG Limited,10-May-95,10
+1523,SPICEJET,INE285B01017,SPICEJET LTD,10-May-95,10
+1524,PATSPINLTD,INE790C01014,Patspin India Limited,10-May-95,10
+1525,PRAKASH,INE603A01013,Prakash Industries Limited,10-May-95,10
+1526,SANGHIIND,INE999B01013,Sanghi Industries Limited,10-May-95,10
+1527,SHREDIGCEM,INE232A01011,Shree Digvijay Cement Co.Ltd,10-May-95,10
+1528,SURYAROSNI,INE335A01012,Surya Roshni Limited,10-May-95,10
+1529,CANFINHOME,INE477A01020,Can Fin Homes Limited,10-May-95,2
+1530,VIKASWSP,INE706A01022,Vikas WSP Limited,10-May-95,1
+1531,BAJAJHIND,INE306A01021,Bajaj Hindusthan Sugar Limited,10-May-95,1
+1532,ADORWELD,INE045A01017,Ador Welding Limited,10-May-95,10
+1533,JAYNECOIND,INE854B01010,Jayaswal Neco Industries Limited,10-May-95,10
+1534,EIDPARRY,INE126A01031,EID Parry India Limited,10-May-95,1
+1535,WEIZMANIND,INE080A01014,Weizmann Limited,10-May-95,10
+1536,MASTEK,INE759A01021,Mastek Limited,10-May-95,5
+1537,21STCENMGM,INE253B01015,21st Century Management Services Limited,3-May-95,10
+1538,IFCI,INE039A01010,IFCI Limited,26-Apr-95,10
+1539,SHREECEM,INE070A01015,SHREE CEMENT LIMITED,26-Apr-95,10
+1540,HIL,INE557A01011,HIL Limited,26-Apr-95,10
+1541,BOMDYEING,INE032A01023,Bombay Dyeing & Mfg Company Limited,26-Apr-95,2
+1542,VOLTAS,INE226A01021,Voltas Limited,12-Apr-95,1
+1543,TATACOMM,INE151A01013,Tata Communications Limited,12-Apr-95,10
+1544,PAEL,INE766A01018,PAE Limited,12-Apr-95,10
+1545,FACT,INE188A01015,Fertilizers and Chemicals Travancore Limited,12-Apr-95,10
+1546,DCMSHRIRAM,INE499A01024,DCM Shriram Limited,12-Apr-95,2
+1547,ZUARIGLOB,INE217A01012,Zuari Global Limited,12-Apr-95,10
+1548,BIRLACORPN,INE340A01012,Birla Corporation Limited,12-Apr-95,10
+1549,LAXMIMACH,INE269B01029,Lakshmi Machine Works Limited,29-Mar-95,10
+1550,CUMMINSIND,INE298A01020,Cummins India Limited,29-Mar-95,2
+1551,DCM,INE498A01018,DCM  Limited,29-Mar-95,10
+1552,DHAMPURSUG,INE041A01016,Dhampur Sugar Mills Limited,29-Mar-95,10
+1553,EVERESTIND,INE295A01018,Everest Industries Limited,29-Mar-95,10
+1554,IFBIND,INE559A01017,IFB Industries Limited,29-Mar-95,10
+1555,INEOSSTYRO,INE189B01011,INEOS Styrolution India Limited,29-Mar-95,10
+1556,ABAN,INE421A01028,Aban Offshore Limited,29-Mar-95,2
+1557,GTL,INE043A01012,GTL Limited,29-Mar-95,10
+1558,ORIENTPPR,INE592A01026,Orient Paper & Industries Limited,29-Mar-95,1
+1559,OSWALAGRO,INE142A01012,Oswal Agro Mills Limited,29-Mar-95,10
+1560,PHILIPCARB,INE602A01023,Phillips Carbon Black Limited,29-Mar-95,2
+1561,PIDILITIND,INE318A01026,Pidilite Industries Limited,29-Mar-95,1
+1562,RAJSREESUG,INE562B01019,Rajshree Sugars & Chemicals Limited,29-Mar-95,10
+1563,RUBYMILLS,INE301D01026,The Ruby Mills Limited,29-Mar-95,5
+1564,SESHAPAPER,INE630A01024,Seshasayee Paper and Boards Limited,29-Mar-95,2
+1565,HEIDELBERG,INE578A01017,HeidelbergCement India Limited,15-Mar-95,10
+1566,BAJAJHLDNG,INE118A01012,Bajaj Holdings & Investment Limited,15-Mar-95,10
+1567,CGPOWER,INE067A01029,CG Power and Industrial Solutions Limited,1-Mar-95,2
+1568,SHREYAS,INE757B01015,Shreyas Shipping & Logistics Limited,1-Mar-95,10
+1569,SBIN,INE062A01020,State Bank of India,1-Mar-95,1
+1570,ESCORTS,INE042A01014,Escorts Limited,1-Mar-95,10
+1571,ROLTA,INE293A01013,Rolta India Limited,1-Mar-95,10
+1572,FINCABLES,INE235A01022,Finolex Cables Limited,15-Feb-95,2
+1573,JAYSREETEA,INE364A01020,Jayshree Tea & Industries Limited,15-Feb-95,5
+1574,RSWM,INE611A01016,RSWM Limited,15-Feb-95,10
+1575,FINPIPE,INE183A01016,Finolex Industries Limited,8-Feb-95,10
+1576,FMGOETZE,INE529A01010,Federal-Mogul Goetze (India) Limited.,8-Feb-95,10
+1577,VINDHYATEL,INE707A01012,Vindhya Telelinks Limited,8-Feb-95,10
+1578,WATERBASE,INE054C01015,Waterbase Limited,8-Feb-95,10
+1579,WILLAMAGOR,INE210A01017,Williamson Magor & Company Limited,8-Feb-95,10
+1580,INFY,INE009A01021,Infosys Limited,8-Feb-95,5
+1581,IPCALAB,INE571A01020,IPCA Laboratories Limited,8-Feb-95,2
+1582,KANORICHEM,INE138C01024,Kanoria Chemicals & Industries Limited,8-Feb-95,5
+1583,AARTIIND,INE769A01020,Aarti Industries Limited,8-Feb-95,5
+1584,ABB,INE117A01022,ABB India Limited,8-Feb-95,2
+1585,AMJLAND,INE606A01024,Amj Land Holdings Limited,8-Feb-95,2
+1586,ARVIND,INE034A01011,Arvind Limited,8-Feb-95,10
+1587,GIPCL,INE162A01010,Gujarat Industries Power Company Limited,8-Feb-95,10
+1588,GLFL,INE540A01017,Gujarat Lease Financing Limited,8-Feb-95,10
+1589,GOLDENTOBC,INE973A01010,Golden Tobacco Limited,8-Feb-95,10
+1590,HARRMALAYA,INE544A01019,Harrisons  Malayalam Limited,8-Feb-95,10
+1591,HIMATSEIDE,INE049A01027,Himatsingka Seide Limited,8-Feb-95,5
+1592,KSB,INE999A01015,Ksb Limited,8-Feb-95,10
+1593,NAVNETEDUL,INE060A01024,Navneet Education Limited,8-Feb-95,2
+1594,PEL,INE140A01024,Piramal Enterprises Limited,8-Feb-95,2
+1595,PENINLAND,INE138A01028,Peninsula Land Limited,8-Feb-95,2
+1596,RELINFRA,INE036A01016,Reliance Infrastructure Limited,8-Feb-95,10
+1597,BALRAMCHIN,INE119A01028,Balrampur Chini Mills Limited,8-Feb-95,1
+1598,FEDERALBNK,INE171A01029,The Federal Bank  Limited,8-Feb-95,2
+1599,EIHOTEL,INE230A01023,EIH Limited,8-Feb-95,2
+1600,CIPLA,INE059A01026,Cipla Limited,8-Feb-95,2
+1601,CESC,INE486A01013,CESC Limited,8-Feb-95,10
+1602,BLUEBLENDS,INE113O01014,Blue Blends (I) Limited,8-Feb-95,10
+1603,HINDSYNTEX,INE155B01012,Hind Syntex Limited,8-Feb-95,10
+1604,MOTOGENFIN,INE861B01015,The Motor & General Finance Limited,8-Feb-95,10
+1605,MARALOVER,INE882A01013,Maral Overseas Limited,8-Feb-95,10
+1606,SUNPHARMA,INE044A01036,Sun Pharmaceutical Industries Limited,8-Feb-95,1
+1607,LYKALABS,INE933A01014,Lyka Labs Limited,8-Feb-95,10
+1608,MAHSCOOTER,INE288A01013,Maharashtra Scooters Limited,8-Feb-95,10
+1609,FORCEMOT,INE451A01017,FORCE MOTORS LTD,3-Nov-94,10
+1610,KENNAMET,INE717A01029,Kennametal India Limited,3-Nov-94,10
