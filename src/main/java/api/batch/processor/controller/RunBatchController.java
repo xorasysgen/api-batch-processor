@@ -32,6 +32,11 @@ public class RunBatchController {
 	@Qualifier("jobNewJob")
 	Job jobNew;
 	
+	@Autowired
+	@Qualifier("niftyJob")
+	Job niftyJob; 
+	
+	
 	
 	@GetMapping("/run")
 	public BatchStatus runBatch() {
@@ -63,6 +68,29 @@ public class RunBatchController {
 		JobParameters jobParameters=new JobParameters(map);
 		try {
 			JobExecution je=jobLauncher.run(jobNew, jobParameters);
+			System.out.println("Status:" + je.getStatus());
+			while(je.isRunning()) {
+				System.out.println("Job Running");
+			}
+			return je.getStatus();
+		} catch (JobExecutionAlreadyRunningException | JobRestartException | JobInstanceAlreadyCompleteException
+				| JobParametersInvalidException e) {
+			e.printStackTrace();
+		}
+		return null;
+		
+		
+	}
+	
+	
+	
+	@GetMapping("/run/nifty")
+	public BatchStatus runBatchNiftyALL() {
+		HashMap<String,JobParameter> map=new HashMap<>();
+		map.put("Time", new JobParameter(System.currentTimeMillis()));
+		JobParameters jobParameters=new JobParameters(map);
+		try {
+			JobExecution je=jobLauncher.run(niftyJob, jobParameters);
 			System.out.println("Status:" + je.getStatus());
 			while(je.isRunning()) {
 				System.out.println("Job Running");
