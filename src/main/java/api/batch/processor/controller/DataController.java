@@ -7,8 +7,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import api.batch.processor.model.IndN500;
+import api.batch.processor.model.Nifty;
 import api.batch.processor.model.NseListedALL;
 import api.batch.processor.repository.NiftyALLRepository;
+import api.batch.processor.repository.NiftyHistoryRepository;
 import api.batch.processor.repository.NiftyRepository;
 
 @RestController("/")
@@ -21,6 +23,9 @@ public class DataController {
 	
 	@Autowired
 	NiftyALLRepository niftyALLRepository;
+	
+	@Autowired
+	NiftyHistoryRepository niftyHistoryRepository;
 	
 		
 	@GetMapping
@@ -41,6 +46,13 @@ public class DataController {
 	@GetMapping("/data/all")
 	public List<NseListedALL> getIndN500ALL() {
 		return niftyALLRepository.findAll();
+		
+	}
+	
+	
+	@GetMapping("/data/nifty")
+	public List<Nifty> getHistoricalNiftyALL() {
+		return niftyHistoryRepository.findAll();
 		
 	}
 
